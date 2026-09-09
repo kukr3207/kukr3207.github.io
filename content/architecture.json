@@ -75,5 +75,24 @@
       [["Service-quality insights", "Analyze the support experience"]]
     ],
     "delivery": "Python / NLP / sentiment classification"
+  },
+  "unified-virtual-assistants": {
+    "title": "One chatbot, multiple assistants",
+    "rows": [
+      [["User message", "One client chatbot"]],
+      [["Language understanding", "LUIS"]],
+      [["Virtual assistants", "Bot Framework"]],
+      [["Chatbot response", "Conversation continues"]]
+    ],
+    "delivery": "LUIS + Bot Framework / multiple virtual assistants in one chatbot"
+  },
+  "hospital-helpdesk-nlp": {
+    "title": "Hospital help-desk conversations",
+    "rows": [
+      [["User message", "Hospital help desk"]],
+      [["Chatbot conversation", "Rasa"]],
+      [["Help-desk response", "Conversational assistance"]]
+    ],
+    "delivery": "Rasa hospital help-desk chatbot / related NLP work: ClinicalBERT adapted to requirements"
   }
 }

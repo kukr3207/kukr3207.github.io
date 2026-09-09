@@ -3,7 +3,7 @@
 A static portfolio for Uday Kondreddy. The site uses React, TypeScript, vinext and the Sites component library.
 
 The homepage presents a chronological career timeline, followed by freelance work and the learning library. Each employer links to a dedicated work page at `/experience/<company>/`.
-Six challenge-led architecture deep dives live under `/projects/`. There is no repeated project grid on the homepage.
+Eight challenge-led architecture deep dives live under `/projects/`. There is no repeated project grid on the homepage.
 Project previews show reported impact from the supplied resumes. ServiceNow's 60% figure refers to manual triage time, not MTTR. The SWYM recommendations page links to the upstream Recommenders library supplied by Uday.
 Three recurring stick-figure illustrations accompany building, learning and explaining. Their original assets and generation prompts are documented in `docs/illustrations.md`.
 
@@ -98,12 +98,12 @@ Run `node --test tests/learning-library.test.mjs` to check discovery, ordering, 
 
 The project summaries come from the supplied resumes. Architecture diagrams are public sketches of documented components; they do not expose exact internal interfaces.
 Edit `content/architecture.json` to change a diagram. The build generates downloadable SVGs with `scripts/prepare-architecture.mjs`.
-Each deep dive links to a new synthetic evaluation companion in `public/artifacts/evaluation/`. These examples score saved fictional outputs. They do not execute the original systems or support historical impact figures. The downloadable ZIP includes the script, fixtures, metric definitions, tests and example reports.
+Six deep dives link to synthetic evaluation companions in `public/artifacts/evaluation/`. These examples score saved fictional outputs. They do not execute the original systems or support historical impact figures. The downloadable ZIP includes the script, fixtures, metric definitions, tests and example reports. The two Dhan AI project pages summarize the confirmed work and include architecture sketches; implementation repositories and evaluation artifacts have not been supplied for those projects.
 Run `python3 -m unittest -v test_evaluate_outputs.py` from that artifact directory to check it. Real employer recordings and sanitized implementation repositories have not been supplied.
 
 Alignerr and Toptal descriptions remain placeholders. Project summaries omit private deliverables and internal task names. Confirmed reported metrics appear on the relevant previews; ambiguous revenue and deployment figures remain omitted.
 The Expertquery summary describes the authoring workflow in the supplied guidelines. It does not claim task approvals or platform-wide results.
-Dates match both supplied resumes, including the Synopsys/SWYM overlap. Confirm that overlap before changing either date.
+Career dates incorporate Uday's corrections: Synopsys ran from October 2018 to May 2020, followed by Dhan AI in Hyderabad from May 2020 to May 2021. SWYM started in June 2021 and ended in June 2022. The Dhan AI role covers LUIS/Bot Framework virtual assistants, a Rasa hospital help-desk chatbot, and ClinicalBERT adaptation work.
 
 The old lab URLs show the project collection for existing bookmarks. The old RAG URL shows the enterprise retrieval project. The evaluation URL shows a freelance work overview.
 

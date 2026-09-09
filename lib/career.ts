@@ -30,11 +30,22 @@ export const career = [
       'Recommendation pipelines on Databricks and Spark, with Streamlit tools for exploring commerce data.',
   },
   {
+    name: 'Dhan AI',
+    slug: 'dhan-ai',
+    stack: ['LUIS', 'Bot Framework', 'Rasa', 'ClinicalBERT'],
+    role: 'Machine Learning Engineer',
+    location: 'Hyderabad, India',
+    dates: 'May 2020 – May 2021',
+    focus: 'Virtual assistants and healthcare NLP',
+    detail:
+      'Developed multiple virtual assistants within a single client chatbot using LUIS and Bot Framework. Built a hospital help-desk chatbot with Rasa and adapted ClinicalBERT to project requirements.',
+  },
+  {
     name: 'Synopsys',
     slug: 'synopsys',
     stack: ['Anomaly detection', 'NLP', 'Data engineering'],
     role: 'Technical Engineer · Machine Learning',
-    dates: 'Oct 2018 – May 2022',
+    dates: 'Oct 2018 – May 2020',
     focus: 'Applied ML and data systems',
     detail:
       'Anomaly detection, NLP workflows, experiment tracking and data engineering for internal systems.',

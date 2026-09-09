@@ -14,7 +14,7 @@ export type Project = {
   engineering?: { title: string; technology: string; description: string }[];
 };
 
-// Public summaries and reported impact from the supplied resumes. No private client assets.
+// Public summaries from supplied resumes and confirmed career details. No private client assets.
 export const projects: Project[] = [
   {
     slug: 'enterprise-knowledge-retrieval',
@@ -159,6 +159,51 @@ export const projects: Project[] = [
       'Stock-out analysis',
       'Revenue opportunity',
       'Analytics dashboard',
+    ],
+  },
+  {
+    slug: 'unified-virtual-assistants',
+    title: 'Multiple Virtual Assistants in One Chatbot',
+    company: 'Dhan AI',
+    category: 'CONVERSATIONAL AI',
+    summary:
+      'A client chatbot bringing multiple virtual assistants into a single conversational interface with LUIS and Bot Framework.',
+    problem:
+      'The client needed multiple virtual assistants to be available through one chatbot.',
+    contributions: [
+      'Worked with LUIS and Bot Framework to develop multiple virtual assistants.',
+      'Brought the assistants together within a single chatbot for the client.',
+    ],
+    stack: ['LUIS', 'Bot Framework', 'Conversational AI'],
+    outcome: 'Brought multiple virtual assistants into one client chatbot.',
+    flow: [
+      'User message',
+      'Language understanding',
+      'Virtual assistants',
+      'Chatbot response',
+    ],
+  },
+  {
+    slug: 'hospital-helpdesk-nlp',
+    title: 'Hospital Help-Desk Conversations & Clinical NLP',
+    company: 'Dhan AI',
+    category: 'HEALTHCARE NLP',
+    summary:
+      'A hospital help-desk chatbot built with Rasa, alongside ClinicalBERT adaptation work for project requirements.',
+    problem:
+      'The work called for a conversational interface for a hospital help desk and adaptations to a clinical language model.',
+    contributions: [
+      'Developed a hospital help-desk chatbot with Rasa.',
+      'Adapted ClinicalBERT according to project requirements.',
+    ],
+    stack: ['Rasa', 'ClinicalBERT', 'NLP'],
+    outcome:
+      'Developed a hospital help-desk chatbot and adapted ClinicalBERT to project needs.',
+    flow: [
+      'Help-desk question',
+      'Rasa conversation',
+      'Chatbot response',
+      'Continued conversation',
     ],
   },
   {

@@ -39,7 +39,10 @@ export default async function EmployerPage({ params }: Props) {
               PROFESSIONAL EXPERIENCE / {role.dates}
             </span>
             <h1>{role.name}</h1>
-            <p className="employer-role">{role.role}</p>
+            <p className="employer-role">
+              {role.role}
+              {role.location ? ` · ${role.location}` : ''}
+            </p>
             <p>{role.detail}</p>
             <div className="tags">
               {role.stack.map((skill) => (

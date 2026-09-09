@@ -72,6 +72,7 @@ export function ArchitectureFigure({ project }: { project: Project }) {
 
 export function ProjectEvidence({ project }: { project: Project }) {
   const sample = samples[project.slug];
+  if (!sample && !project.reference) return null;
   return (
     <section className="project-evidence" aria-labelledby="evidence-title">
       <span className="eyebrow">CODE & EVALUATION</span>
