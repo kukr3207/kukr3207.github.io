@@ -116,7 +116,7 @@ export const projects: Project[] = [
         'The open-source recommendation library used in this work. This link points to the upstream library.',
     },
     title: 'Recommendation Pipelines at Scale with Databricks & Spark',
-    impact: { value: '10M+', label: 'user interactions processed daily' },
+    impact: { value: '1M+', label: 'user interactions processed daily' },
     company: 'SWYM',
     category: 'RECOMMENDATION SYSTEMS',
     summary:
