@@ -3,9 +3,9 @@ import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { Header, Footer } from '@/components/portfolio/chrome';
 import { Doodle } from '@/components/portfolio/doodle';
 export const metadata = {
-  title: 'Coding evaluation & task engineering',
+  title: 'AI evaluation & task engineering',
   description:
-    'Selected freelance work across G2i, Expertquery and Alignerr in task authoring, long-horizon model evaluation, reference solutions and code-quality review.',
+    'Selected freelance work across G2i, Expertquery, Alignerr and Toptal in coding benchmarks, long-horizon model evaluation and computer-use interaction data.',
 };
 export default function EvaluationOverview() {
   return (
@@ -20,9 +20,9 @@ export default function EvaluationOverview() {
             <div className="eyebrow">FREELANCE / EVALUATION ENGINEERING</div>
             <h1>Evidence behind the evaluation.</h1>
             <p>
-              Task design, reference solutions and careful review of model
-              outputs and execution trajectories. Selected engineering
-              responsibilities across G2i, Expertquery and Alignerr engagements.
+              Task design, model evaluation, interaction data and careful review
+              of execution trajectories. Selected engineering responsibilities
+              across G2i, Expertquery, Alignerr and Toptal engagements.
             </p>
           </div>
           <Doodle kind="explainer" />
@@ -125,6 +125,34 @@ export default function EvaluationOverview() {
                 tokens across its run, counted from the initial prompt.
               </li>
             </ol>
+          </article>
+          <article id="toptal">
+            <span className="eyebrow">TOPTAL / COMPUTER-USE EVALUATION</span>
+            <h2>Recording interactions that support model evaluation.</h2>
+            <p>
+              Completed a technical operator engagement focused on exploring
+              computer environments and generating interaction data for LLM
+              training and evaluation. The work combined practical system
+              exploration with review of interaction patterns and data quality.
+            </p>
+            <ul className="project-contributions">
+              <li>
+                Explored unfamiliar computer environments and tools to carry out
+                assigned interaction tasks.
+              </li>
+              <li>
+                Generated and recorded interaction data to support LLM training
+                and evaluation signals.
+              </li>
+              <li>
+                Collaborated with the team to validate interaction patterns and
+                the quality of recorded data.
+              </li>
+              <li>
+                Refined exploration methods to support more efficient data
+                collection.
+              </li>
+            </ul>
           </article>
         </section>
         <section className="project-contact">

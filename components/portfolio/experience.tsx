@@ -53,14 +53,14 @@ const engagements = [
   {
     name: 'Toptal',
     mark: 't',
-    role: 'Freelance engagement',
-    type: 'Project notes forthcoming',
+    role: 'Computer-use evaluation & interaction data',
+    type: 'Completed engagement',
     description:
-      'A place for selected Toptal project notes. Responsibilities, dates and outcomes will be added after review.',
+      'Explored computer environments and recorded interaction data for LLM training and evaluation. Reviewed interaction patterns and data quality with the team.',
     bullets: [],
-    link: null,
-    label: null,
-    pending: true,
+    link: '/case-studies/verifier-design/#toptal',
+    label: 'Read the computer-use workflow',
+    pending: false,
   },
 ];
 export function Experience() {
@@ -134,8 +134,8 @@ export function FreelanceExperience() {
           <h2 id="contracts-title">Freelance & evaluation work.</h2>
         </div>
         <p>
-          Selected engagements in coding benchmarks, model evaluation and task
-          design.
+          Selected engagements in coding benchmarks, model evaluation, task
+          design and computer-use data.
         </p>
       </div>
       <div className="contract-grid">
