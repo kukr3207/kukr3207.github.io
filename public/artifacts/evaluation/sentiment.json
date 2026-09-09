@@ -1,0 +1,13 @@
+{
+  "example_type": "synthetic_educational",
+  "task": "classification",
+  "labels": ["positive", "neutral", "negative"],
+  "records": [
+    {"expected_label": "positive", "predicted_label": "positive"},
+    {"expected_label": "negative", "predicted_label": "negative"},
+    {"expected_label": "neutral", "predicted_label": "positive"},
+    {"expected_label": "positive", "predicted_label": null},
+    {"expected_label": "neutral", "predicted_label": "neutral"},
+    {"expected_label": "negative", "predicted_label": "negative"}
+  ]
+}

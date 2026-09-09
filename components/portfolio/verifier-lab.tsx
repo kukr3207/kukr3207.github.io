@@ -1,4 +1,5 @@
 'use client';
+import { ModelPanel } from '@/components/lab/model-panel';
 import { useState } from 'react';
 import { flushSync } from 'react-dom';
 import { ArrowRight, Play, Check, X, FlaskConical } from 'lucide-react';
@@ -248,6 +249,12 @@ export function VerifierLab() {
           </div>
         </div>
       </div>
+      <ModelPanel
+        key={`${id}-${candidate}`}
+        kind="verifier"
+        payload={{ caseId: id, candidate }}
+        question="Explain why these checks accept or reject this candidate, and what coverage might still be missing."
+      />
       <p className="demo-disclosure">
         Original synthetic fixtures. Only the built-in candidates run; no
         user-supplied code is executed. These examples contain no client tasks,

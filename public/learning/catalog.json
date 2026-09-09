@@ -1,0 +1,1511 @@
+{
+  "schemaVersion": 1,
+  "documents": [
+    {
+      "id": "Agentic - 1.pdf",
+      "filename": "Agentic - 1.pdf",
+      "series": "Agentic AI",
+      "lesson": 1,
+      "title": "Not Every AI That Uses Tools Is an Agent",
+      "summary": "The difference between using a tool and working toward a goal with decisions and feedback.",
+      "topics": [
+        "Agent basics",
+        "Goals",
+        "Feedback"
+      ],
+      "pages": 7,
+      "order": 1,
+      "cover": "/learning/covers/agentic-1.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-1-4ba5538c0aca-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-1-4ba5538c0aca-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-1-4ba5538c0aca-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%201.pdf",
+      "bytes": 10106288,
+      "updatedAt": "2026-09-09T04:05:23.777Z"
+    },
+    {
+      "id": "GenAI - 1.pdf",
+      "filename": "GenAI - 1.pdf",
+      "series": "GenAI",
+      "lesson": 1,
+      "title": "What exactly IS Artificial Intelligence?",
+      "summary": "An introduction to artificial intelligence that starts with the basic idea of what AI is.",
+      "topics": [
+        "AI basics",
+        "Artificial intelligence"
+      ],
+      "pages": 7,
+      "order": 1,
+      "cover": "/learning/covers/genai-1.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-1-31a58e1fdc97-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-1-31a58e1fdc97-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-1-31a58e1fdc97-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%201.pdf",
+      "bytes": 965676,
+      "updatedAt": "2026-09-09T04:40:30.464Z"
+    },
+    {
+      "id": "Agentic - 2.pdf",
+      "filename": "Agentic - 2.pdf",
+      "series": "Agentic AI",
+      "lesson": 2,
+      "title": "Chatbot vs Workflow vs Agent",
+      "summary": "Compare conversational responses, predefined workflows and agents that choose their next action.",
+      "topics": [
+        "Chatbots",
+        "Workflows",
+        "Agents"
+      ],
+      "pages": 12,
+      "order": 2,
+      "cover": "/learning/covers/agentic-2.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-2-f3f49f396576-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-2-f3f49f396576-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-2-f3f49f396576-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%202.pdf",
+      "bytes": 1031317,
+      "updatedAt": "2026-09-09T04:05:23.778Z"
+    },
+    {
+      "id": "GenAI - 2.pdf",
+      "filename": "GenAI - 2.pdf",
+      "series": "GenAI",
+      "lesson": 2,
+      "title": "Unlocking Creativity: What is Generative AI?",
+      "summary": "Introduces generative AI and its ability to create content such as images, music and text.",
+      "topics": [
+        "Generative AI",
+        "Content generation"
+      ],
+      "pages": 7,
+      "order": 2,
+      "cover": "/learning/covers/genai-2.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-2-2a2ac2fb4c62-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-2-2a2ac2fb4c62-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-2-2a2ac2fb4c62-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%202.pdf",
+      "bytes": 8857066,
+      "updatedAt": "2026-09-09T04:40:30.467Z"
+    },
+    {
+      "id": "Agentic - 3.pdf",
+      "filename": "Agentic - 3.pdf",
+      "series": "Agentic AI",
+      "lesson": 3,
+      "title": "Inside an AI Agent: Brain + Tools + Memory + Rules",
+      "summary": "A visual introduction to the components that make an agent useful.",
+      "topics": [
+        "Agent architecture",
+        "Tools",
+        "Memory"
+      ],
+      "pages": 15,
+      "order": 3,
+      "cover": "/learning/covers/agentic-3.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-3-d0a34e25bc93-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-3-d0a34e25bc93-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-3-d0a34e25bc93-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%203.pdf",
+      "bytes": 1301566,
+      "updatedAt": "2026-09-09T04:05:23.780Z"
+    },
+    {
+      "id": "GenAI - 3.pdf",
+      "filename": "GenAI - 3.pdf",
+      "series": "GenAI",
+      "lesson": 3,
+      "title": "Meet GANs: The “Art Battle” of AI",
+      "summary": "Explains how a generator and discriminator compete to produce realistic generated content.",
+      "topics": [
+        "GANs",
+        "Generators",
+        "Discriminators"
+      ],
+      "pages": 7,
+      "order": 3,
+      "cover": "/learning/covers/genai-3.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-3-36d8b906026d-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-3-36d8b906026d-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-3-36d8b906026d-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%203.pdf",
+      "bytes": 8568962,
+      "updatedAt": "2026-09-09T04:40:30.471Z"
+    },
+    {
+      "id": "Agentic - 4.pdf",
+      "filename": "Agentic - 4.pdf",
+      "series": "Agentic AI",
+      "lesson": 4,
+      "title": "The Agent Loop: How an AI Agent Gets Things Done",
+      "summary": "Follow an agent through decisions, actions and observations as it works toward a goal.",
+      "topics": [
+        "Agent loop",
+        "Actions",
+        "Observations"
+      ],
+      "pages": 15,
+      "order": 4,
+      "cover": "/learning/covers/agentic-4.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-4-785d4ee40f03-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-4-785d4ee40f03-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-4-785d4ee40f03-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%204.pdf",
+      "bytes": 1073301,
+      "updatedAt": "2026-09-09T04:05:23.781Z"
+    },
+    {
+      "id": "GenAI - 4.pdf",
+      "filename": "GenAI - 4.pdf",
+      "series": "GenAI",
+      "lesson": 4,
+      "title": "The Future is Here: Transformers & Diffusion!",
+      "summary": "Introduces transformers and diffusion models as foundations for modern text and image generation.",
+      "topics": [
+        "Transformers",
+        "Diffusion models",
+        "Generative models"
+      ],
+      "pages": 7,
+      "order": 4,
+      "cover": "/learning/covers/genai-4.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-4-13fc880c843a-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-4-13fc880c843a-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-4-13fc880c843a-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%204.pdf",
+      "bytes": 6946324,
+      "updatedAt": "2026-09-09T04:40:30.475Z"
+    },
+    {
+      "id": "Agentic - 5.pdf",
+      "filename": "Agentic - 5.pdf",
+      "series": "Agentic AI",
+      "lesson": 5,
+      "title": "Not Every Problem Needs an AI Agent",
+      "summary": "Consider when an agent helps and when a simpler approach fits the task.",
+      "topics": [
+        "System design",
+        "Tradeoffs",
+        "Workflows"
+      ],
+      "pages": 15,
+      "order": 5,
+      "cover": "/learning/covers/agentic-5.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-5-e3820df1dd42-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-5-e3820df1dd42-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-5-e3820df1dd42-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%205.pdf",
+      "bytes": 1100739,
+      "updatedAt": "2026-09-09T04:05:23.782Z"
+    },
+    {
+      "id": "GenAI - 5.pdf",
+      "filename": "GenAI - 5.pdf",
+      "series": "GenAI",
+      "lesson": 5,
+      "title": "With Great Power Comes Responsibility!",
+      "summary": "Introduces ethical AI and the responsibility that comes with using generative technology.",
+      "topics": [
+        "AI ethics",
+        "Responsible AI"
+      ],
+      "pages": 7,
+      "order": 5,
+      "cover": "/learning/covers/genai-5.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-5-011bd6420bba-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-5-011bd6420bba-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-5-011bd6420bba-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%205.pdf",
+      "bytes": 13725942,
+      "updatedAt": "2026-09-09T04:40:30.478Z"
+    },
+    {
+      "id": "Agentic - 6.pdf",
+      "filename": "Agentic - 6.pdf",
+      "series": "Agentic AI",
+      "lesson": 6,
+      "title": "How AI Agents Use Tools",
+      "summary": "Explore how tools connect an agent to actions outside the language model.",
+      "topics": [
+        "Tool use",
+        "Actions",
+        "Agent design"
+      ],
+      "pages": 16,
+      "order": 6,
+      "cover": "/learning/covers/agentic-6.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-6-55997a712445-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-6-55997a712445-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-6-55997a712445-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%206.pdf",
+      "bytes": 1027460,
+      "updatedAt": "2026-09-09T04:05:23.784Z"
+    },
+    {
+      "id": "GenAI - 6.pdf",
+      "filename": "GenAI - 6.pdf",
+      "series": "GenAI",
+      "lesson": 6,
+      "title": "Prompt Engineering: The Art of Talking to AI",
+      "summary": "Introduces prompt engineering as a way to communicate requests and guide AI outputs.",
+      "topics": [
+        "Prompt engineering",
+        "AI instructions"
+      ],
+      "pages": 7,
+      "order": 6,
+      "cover": "/learning/covers/genai-6.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-6-88e0b4121cd9-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-6-88e0b4121cd9-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-6-88e0b4121cd9-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%206.pdf",
+      "bytes": 5869630,
+      "updatedAt": "2026-09-09T04:40:30.482Z"
+    },
+    {
+      "id": "Agentic - 7.pdf",
+      "filename": "Agentic - 7.pdf",
+      "series": "Agentic AI",
+      "lesson": 7,
+      "title": "How AI Agents Plan Their Next Move",
+      "summary": "Explore ReAct, plan-and-execute and hybrid planning, with examples of replanning, progress tracking and stopping conditions.",
+      "topics": [
+        "ReAct",
+        "Planning",
+        "Stop conditions"
+      ],
+      "pages": 16,
+      "order": 7,
+      "cover": "/learning/covers/agentic-7.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-7-34e7f4a762f8-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-7-34e7f4a762f8-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-7-34e7f4a762f8-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%207.pdf",
+      "bytes": 1030417,
+      "updatedAt": "2026-09-09T04:05:23.785Z"
+    },
+    {
+      "id": "GenAI - 7.pdf",
+      "filename": "GenAI - 7.pdf",
+      "series": "GenAI",
+      "lesson": 7,
+      "title": "You’ve Learned the Theory, Now Let’s Build!",
+      "summary": "Moves from AI theory to approachable projects that learners can build themselves.",
+      "topics": [
+        "AI projects",
+        "Applied generative AI"
+      ],
+      "pages": 7,
+      "order": 7,
+      "cover": "/learning/covers/genai-7.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-7-d633941e570d-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-7-d633941e570d-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-7-d633941e570d-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%207.pdf",
+      "bytes": 7479267,
+      "updatedAt": "2026-09-09T04:40:30.485Z"
+    },
+    {
+      "id": "Agentic - 8.pdf",
+      "filename": "Agentic - 8.pdf",
+      "series": "Agentic AI",
+      "lesson": 8,
+      "title": "How AI Agents Remember",
+      "summary": "Understand working and long-term memory, then follow how agents store, retrieve, correct and delete information.",
+      "topics": [
+        "Working memory",
+        "Long-term memory",
+        "Retrieval"
+      ],
+      "pages": 17,
+      "order": 8,
+      "cover": "/learning/covers/agentic-8.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-8-b86e93c6ca16-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-8-b86e93c6ca16-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-8-b86e93c6ca16-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%208.pdf",
+      "bytes": 1102404,
+      "updatedAt": "2026-09-09T04:05:23.786Z"
+    },
+    {
+      "id": "GenAI - 8.pdf",
+      "filename": "GenAI - 8.pdf",
+      "series": "GenAI",
+      "lesson": 8,
+      "title": "What’s the “Brain” Behind ChatGPT?",
+      "summary": "Introduces large language models and their role in systems such as ChatGPT.",
+      "topics": [
+        "Large language models",
+        "Language generation",
+        "ChatGPT"
+      ],
+      "pages": 7,
+      "order": 8,
+      "cover": "/learning/covers/genai-8.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-8-c149b07bc055-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-8-c149b07bc055-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-8-c149b07bc055-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%208.pdf",
+      "bytes": 10283039,
+      "updatedAt": "2026-09-09T04:40:30.489Z"
+    },
+    {
+      "id": "Agentic - 9.pdf",
+      "filename": "Agentic - 9.pdf",
+      "series": "Agentic AI",
+      "lesson": 9,
+      "title": "A Smart Agent Can Still Fail with the Wrong Context",
+      "summary": "Learn how to gather, select and structure context while preserving source authority and boundaries around untrusted content.",
+      "topics": [
+        "Context engineering",
+        "Source authority",
+        "Prompt injection"
+      ],
+      "pages": 17,
+      "order": 9,
+      "cover": "/learning/covers/agentic-9.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-9-a38bf44837f1-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-9-a38bf44837f1-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-9-a38bf44837f1-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%209.pdf",
+      "bytes": 1192402,
+      "updatedAt": "2026-09-09T04:05:23.788Z"
+    },
+    {
+      "id": "GenAI - 9.pdf",
+      "filename": "GenAI - 9.pdf",
+      "series": "GenAI",
+      "lesson": 9,
+      "title": "Midjourney: Your Personal AI Artist!",
+      "summary": "Introduces Midjourney as a tool for creating AI-generated images.",
+      "topics": [
+        "Midjourney",
+        "Image generation"
+      ],
+      "pages": 7,
+      "order": 9,
+      "cover": "/learning/covers/genai-9.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-9-f5f295fdd670-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-9-f5f295fdd670-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-9-f5f295fdd670-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%209.pdf",
+      "bytes": 6325766,
+      "updatedAt": "2026-09-09T04:40:30.492Z"
+    },
+    {
+      "id": "Agentic - 10.pdf",
+      "filename": "Agentic - 10.pdf",
+      "series": "Agentic AI",
+      "lesson": 10,
+      "title": "Traditional RAG vs Agentic RAG",
+      "summary": "Compare fixed retrieval pipelines with query decomposition, source routing and iterative evidence gathering.",
+      "topics": [
+        "RAG",
+        "Agentic retrieval",
+        "Query decomposition"
+      ],
+      "pages": 19,
+      "order": 10,
+      "cover": "/learning/covers/agentic-10.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-10-0dcb45f2a15e-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-10-0dcb45f2a15e-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-10-0dcb45f2a15e-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2010.pdf",
+      "bytes": 1231290,
+      "updatedAt": "2026-09-09T04:05:23.790Z"
+    },
+    {
+      "id": "GenAI - 10.pdf",
+      "filename": "GenAI - 10.pdf",
+      "series": "GenAI",
+      "lesson": 10,
+      "title": "Mastering ChatGPT: Tips, Tricks & Plugins!",
+      "summary": "Presents tips, workflows and the plugin concepts covered in this ChatGPT learning module.",
+      "topics": [
+        "ChatGPT",
+        "Prompting",
+        "AI workflows"
+      ],
+      "pages": 7,
+      "order": 10,
+      "cover": "/learning/covers/genai-10.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-10-2673cde7e3f8-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-10-2673cde7e3f8-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-10-2673cde7e3f8-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2010.pdf",
+      "bytes": 6450576,
+      "updatedAt": "2026-09-09T04:40:30.495Z"
+    },
+    {
+      "id": "Agentic - 11.pdf",
+      "filename": "Agentic - 11.pdf",
+      "series": "Agentic AI",
+      "lesson": 11,
+      "title": "Building a Capable Single Agent",
+      "summary": "Design a focused agent with success criteria, useful tools, relevant context, working state and behavioral evaluation.",
+      "topics": [
+        "Agent architecture",
+        "Tool design",
+        "Evaluation"
+      ],
+      "pages": 19,
+      "order": 11,
+      "cover": "/learning/covers/agentic-11.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-11-bf61ab25f761-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-11-bf61ab25f761-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-11-bf61ab25f761-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2011.pdf",
+      "bytes": 1267188,
+      "updatedAt": "2026-09-09T04:05:23.791Z"
+    },
+    {
+      "id": "GenAI - 11.pdf",
+      "filename": "GenAI - 11.pdf",
+      "series": "GenAI",
+      "lesson": 11,
+      "title": "Putting AI to Work: Real-World Use Cases!",
+      "summary": "Explore how generative AI supports everyday work, creative tasks and hobbies.",
+      "topics": [
+        "GenAI applications",
+        "LLMs",
+        "Diffusion models"
+      ],
+      "pages": 7,
+      "order": 11,
+      "cover": "/learning/covers/genai-11.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-11-46d1559fdf18-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-11-46d1559fdf18-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-11-46d1559fdf18-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2011.pdf",
+      "bytes": 8118242,
+      "updatedAt": "2026-09-09T04:40:30.498Z"
+    },
+    {
+      "id": "Agentic - 12 (1).pdf",
+      "filename": "Agentic - 12 (1).pdf",
+      "series": "Agentic AI",
+      "lesson": 12,
+      "title": "When One AI Agent Becomes a Team",
+      "summary": "Explore specialist routing, handoffs, supervisors and parallel agents, including the costs of coordinating their work.",
+      "topics": [
+        "Multi-agent systems",
+        "Supervisors",
+        "Handoffs"
+      ],
+      "pages": 20,
+      "order": 12,
+      "cover": "/learning/covers/agentic-12.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-12-acc84cf41580-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-12-acc84cf41580-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-12-acc84cf41580-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2012%20(1).pdf",
+      "bytes": 1763385,
+      "updatedAt": "2026-09-09T04:05:23.793Z"
+    },
+    {
+      "id": "GenAI - 12.pdf",
+      "filename": "GenAI - 12.pdf",
+      "series": "GenAI",
+      "lesson": 12,
+      "title": "The Future is Here: What are AI Agents?",
+      "summary": "Introduce AI agents through a simple example of an assistant that acts on a request.",
+      "topics": [
+        "AI agents",
+        "Task execution",
+        "Automation"
+      ],
+      "pages": 7,
+      "order": 12,
+      "cover": "/learning/covers/genai-12.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-12-0ea01b2e5e0a-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-12-0ea01b2e5e0a-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-12-0ea01b2e5e0a-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2012.pdf",
+      "bytes": 16389867,
+      "updatedAt": "2026-09-09T04:40:30.507Z"
+    },
+    {
+      "id": "GenAI - 13.pdf",
+      "filename": "GenAI - 13.pdf",
+      "series": "GenAI",
+      "lesson": 13,
+      "title": "AI in Healthcare: Saving Lives with Data",
+      "summary": "Explore an introductory overview of AI applications in healthcare.",
+      "topics": [
+        "Healthcare AI",
+        "Data",
+        "AI applications"
+      ],
+      "pages": 7,
+      "order": 13,
+      "cover": "/learning/covers/genai-13.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-13-c562c5d3deff-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-13-c562c5d3deff-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-13-c562c5d3deff-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2013.pdf",
+      "bytes": 14028421,
+      "updatedAt": "2026-09-09T04:40:30.512Z"
+    },
+    {
+      "id": "GenAI - 14.pdf",
+      "filename": "GenAI - 14.pdf",
+      "series": "GenAI",
+      "lesson": 14,
+      "title": "The End of AI Hallucinations? Meet RAG!",
+      "summary": "Introduce retrieval-augmented generation and its role in grounding model responses in external information.",
+      "topics": [
+        "RAG",
+        "Hallucinations",
+        "Grounding"
+      ],
+      "pages": 7,
+      "order": 14,
+      "cover": "/learning/covers/genai-14.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-14-4ecc9158b40f-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-14-4ecc9158b40f-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-14-4ecc9158b40f-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2014.pdf",
+      "bytes": 7534249,
+      "updatedAt": "2026-09-09T04:40:30.515Z"
+    },
+    {
+      "id": "GenAI - 15.pdf",
+      "filename": "GenAI - 15.pdf",
+      "series": "GenAI",
+      "lesson": 15,
+      "title": "The AI’s Secret Language: Vector Embeddings",
+      "summary": "Explain how vector embeddings represent words and their meaning as numbers.",
+      "topics": [
+        "Vector embeddings",
+        "Semantic meaning",
+        "Representations"
+      ],
+      "pages": 7,
+      "order": 15,
+      "cover": "/learning/covers/genai-15.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-15-6fe09fb9e651-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-15-6fe09fb9e651-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-15-6fe09fb9e651-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2015.pdf",
+      "bytes": 6818838,
+      "updatedAt": "2026-09-09T04:40:30.518Z"
+    },
+    {
+      "id": "GenAI - 16.pdf",
+      "filename": "GenAI - 16.pdf",
+      "series": "GenAI",
+      "lesson": 16,
+      "title": "Fine-Tuning vs. RAG: Customizing Your AI!",
+      "summary": "Compare fine-tuning and retrieval-augmented generation as approaches to customizing an AI system.",
+      "topics": [
+        "Fine-tuning",
+        "RAG",
+        "Customization"
+      ],
+      "pages": 7,
+      "order": 16,
+      "cover": "/learning/covers/genai-16.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-16-60319cad202a-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-16-60319cad202a-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-16-60319cad202a-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2016.pdf",
+      "bytes": 7922123,
+      "updatedAt": "2026-09-09T04:40:30.521Z"
+    },
+    {
+      "id": "GenAI - 17.pdf",
+      "filename": "GenAI - 17.pdf",
+      "series": "GenAI",
+      "lesson": 17,
+      "title": "Multimodal AI: AI That Sees, Hears & Understands!",
+      "summary": "Introduce AI systems that work across text, images and audio.",
+      "topics": [
+        "Multimodal AI",
+        "Vision",
+        "Audio"
+      ],
+      "pages": 7,
+      "order": 17,
+      "cover": "/learning/covers/genai-17.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-17-e0a95a829eef-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-17-e0a95a829eef-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-17-e0a95a829eef-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2017.pdf",
+      "bytes": 10409168,
+      "updatedAt": "2026-09-09T04:40:30.526Z"
+    },
+    {
+      "id": "GenAI - 18.pdf",
+      "filename": "GenAI - 18.pdf",
+      "series": "GenAI",
+      "lesson": 18,
+      "title": "Generative AI for Code: From Idea to App!",
+      "summary": "Explore how generative AI can assist with writing, debugging and explaining code.",
+      "topics": [
+        "Coding assistants",
+        "Debugging",
+        "Code generation"
+      ],
+      "pages": 7,
+      "order": 18,
+      "cover": "/learning/covers/genai-18.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-18-ec600004f423-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-18-ec600004f423-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-18-ec600004f423-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2018.pdf",
+      "bytes": 9655354,
+      "updatedAt": "2026-09-09T04:40:30.529Z"
+    },
+    {
+      "id": "GenAI - 19.pdf",
+      "filename": "GenAI - 19.pdf",
+      "series": "GenAI",
+      "lesson": 19,
+      "title": "The RAG Indexing Pipeline: Building the AI’s Brain",
+      "summary": "Introduce the offline indexing process that prepares documents for a RAG knowledge library.",
+      "topics": [
+        "RAG",
+        "Document indexing",
+        "Knowledge retrieval"
+      ],
+      "pages": 7,
+      "order": 19,
+      "cover": "/learning/covers/genai-19.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-19-d9a73d304442-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-19-d9a73d304442-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-19-d9a73d304442-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2019.pdf",
+      "bytes": 10786975,
+      "updatedAt": "2026-09-09T04:40:30.533Z"
+    },
+    {
+      "id": "GenAI - 20.pdf",
+      "filename": "GenAI - 20.pdf",
+      "series": "GenAI",
+      "lesson": 20,
+      "title": "The Art of Retrieval: Finding the Right Information",
+      "summary": "Explore how a retrieval system searches a vector database for information relevant to a question.",
+      "topics": [
+        "Retrieval",
+        "Vector databases",
+        "Search"
+      ],
+      "pages": 7,
+      "order": 20,
+      "cover": "/learning/covers/genai-20.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-20-1e865636a8ff-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-20-1e865636a8ff-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-20-1e865636a8ff-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/GenAI%20-%2020.pdf",
+      "bytes": 7631597,
+      "updatedAt": "2026-09-09T04:40:30.536Z"
+    },
+    {
+      "id": "GenAI - 21.pdf",
+      "filename": "GenAI - 21.pdf",
+      "series": "GenAI",
+      "lesson": 21,
+      "title": "The Generation Step: Synthesizing the Final Answer",
+      "summary": "Introduces how an LLM combines retrieved context into a final answer during the generation stage.",
+      "topics": [
+        "Answer generation",
+        "Context synthesis",
+        "LLMs"
+      ],
+      "pages": 7,
+      "order": 21,
+      "cover": "/learning/covers/genai-21.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-21-9503ecb424b2-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-21-9503ecb424b2-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-21-9503ecb424b2-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2021.pdf",
+      "bytes": 7313863,
+      "updatedAt": "2026-09-09T04:40:30.541Z"
+    },
+    {
+      "id": "GenAI - 22.pdf",
+      "filename": "GenAI - 22.pdf",
+      "series": "GenAI",
+      "lesson": 22,
+      "title": "Advanced Retrieval: From Good to GREAT",
+      "summary": "Explains why basic vector similarity can miss relevant information and motivates more precise retrieval for vague or multi-part questions.",
+      "topics": [
+        "Advanced retrieval",
+        "Vector search",
+        "Retrieval relevance"
+      ],
+      "pages": 7,
+      "order": 22,
+      "cover": "/learning/covers/genai-22.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-22-f3bd6ca29b06-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-22-f3bd6ca29b06-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-22-f3bd6ca29b06-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2022.pdf",
+      "bytes": 9447721,
+      "updatedAt": "2026-09-09T04:40:30.548Z"
+    },
+    {
+      "id": "GenAI - 23.pdf",
+      "filename": "GenAI - 23.pdf",
+      "series": "GenAI",
+      "lesson": 23,
+      "title": "Evaluating Your RAG System: Is It Actually Working?",
+      "summary": "Introduces objective measurement of RAG answer quality, contrasting evaluation metrics with informal impressions.",
+      "topics": [
+        "RAG evaluation",
+        "Answer relevance",
+        "Quality measurement"
+      ],
+      "pages": 7,
+      "order": 23,
+      "cover": "/learning/covers/genai-23.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-23-440f2f87bca6-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-23-440f2f87bca6-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-23-440f2f87bca6-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2023.pdf",
+      "bytes": 10508937,
+      "updatedAt": "2026-09-09T04:40:30.555Z"
+    },
+    {
+      "id": "GenAI - 24.pdf",
+      "filename": "GenAI - 24.pdf",
+      "series": "GenAI",
+      "lesson": 24,
+      "title": "The Full RAG Blueprint: Anatomy of a Production System",
+      "summary": "Connects the offline knowledge-indexing pipeline with the live retrieval-and-generation pipeline in a production RAG architecture.",
+      "topics": [
+        "RAG architecture",
+        "Indexing pipelines",
+        "Live retrieval"
+      ],
+      "pages": 7,
+      "order": 24,
+      "cover": "/learning/covers/genai-24.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-24-5e385bd52baa-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-24-5e385bd52baa-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-24-5e385bd52baa-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2024.pdf",
+      "bytes": 7990220,
+      "updatedAt": "2026-09-09T04:40:30.562Z"
+    },
+    {
+      "id": "GenAI - 25.pdf",
+      "filename": "GenAI - 25.pdf",
+      "series": "GenAI",
+      "lesson": 25,
+      "title": "The AI Agent Deep Dive: What is an AI Agent?",
+      "summary": "Introduces AI agents as systems that move beyond answering questions to completing tasks.",
+      "topics": [
+        "AI agents",
+        "Task execution",
+        "LLMs"
+      ],
+      "pages": 7,
+      "order": 25,
+      "cover": "/learning/covers/genai-25.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-25-dc7de87d22f8-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-25-dc7de87d22f8-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-25-dc7de87d22f8-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2025.pdf",
+      "bytes": 6877923,
+      "updatedAt": "2026-09-09T04:40:30.569Z"
+    },
+    {
+      "id": "GenAI - 26.pdf",
+      "filename": "GenAI - 26.pdf",
+      "series": "GenAI",
+      "lesson": 26,
+      "title": "The Anatomy of an AI Agent: Under the Hood",
+      "summary": "Introduces the LLM core, tool kit and memory as the main components of an AI agent.",
+      "topics": [
+        "Agent architecture",
+        "Tools",
+        "Memory"
+      ],
+      "pages": 7,
+      "order": 26,
+      "cover": "/learning/covers/genai-26.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-26-4cb2078a147d-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-26-4cb2078a147d-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-26-4cb2078a147d-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2026.pdf",
+      "bytes": 8286275,
+      "updatedAt": "2026-09-09T04:40:30.578Z"
+    },
+    {
+      "id": "GenAI - 27.pdf",
+      "filename": "GenAI - 27.pdf",
+      "series": "GenAI",
+      "lesson": 27,
+      "title": "The ReAct Framework: How Agents ‘Think’ & Act",
+      "summary": "Introduces ReAct as a framework connecting step-by-step reasoning with actions in AI agents.",
+      "topics": [
+        "ReAct",
+        "Reasoning",
+        "Agent actions"
+      ],
+      "pages": 7,
+      "order": 27,
+      "cover": "/learning/covers/genai-27.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-27-978de704cff7-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-27-978de704cff7-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-27-978de704cff7-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2027.pdf",
+      "bytes": 9260246,
+      "updatedAt": "2026-09-09T04:40:30.589Z"
+    },
+    {
+      "id": "GenAI - 28.pdf",
+      "filename": "GenAI - 28.pdf",
+      "series": "GenAI",
+      "lesson": 28,
+      "title": "Agents with Superpowers: Giving Your Agent Tools",
+      "summary": "Introduces how adding tools expands the practical capabilities of a ReAct agent.",
+      "topics": [
+        "Agent tools",
+        "ReAct",
+        "Tool capabilities"
+      ],
+      "pages": 7,
+      "order": 28,
+      "cover": "/learning/covers/genai-28.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-28-c9f215ae5c76-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-28-c9f215ae5c76-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-28-c9f215ae5c76-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2028.pdf",
+      "bytes": 6804443,
+      "updatedAt": "2026-09-09T04:40:30.598Z"
+    },
+    {
+      "id": "GenAI - 29.pdf",
+      "filename": "GenAI - 29.pdf",
+      "series": "GenAI",
+      "lesson": 29,
+      "title": "Multi-Agent Systems: Collaboration for Complexity",
+      "summary": "Introduces collaboration between specialized agents, including research, planning and communication roles.",
+      "topics": [
+        "Multi-agent systems",
+        "Specialization",
+        "Collaboration"
+      ],
+      "pages": 7,
+      "order": 29,
+      "cover": "/learning/covers/genai-29.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-29-1f5d20369e3e-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-29-1f5d20369e3e-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-29-1f5d20369e3e-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2029.pdf",
+      "bytes": 9171141,
+      "updatedAt": "2026-09-09T04:40:30.606Z"
+    },
+    {
+      "id": "GenAI - 30.pdf",
+      "filename": "GenAI - 30.pdf",
+      "series": "GenAI",
+      "lesson": 30,
+      "title": "The Future & Challenges of Agents: The Road Ahead",
+      "summary": "Introduces a vision of agents as collaborators in personal administration, science and software, alongside the challenges ahead.",
+      "topics": [
+        "Agent collaboration",
+        "Future applications",
+        "Agent challenges"
+      ],
+      "pages": 7,
+      "order": 30,
+      "cover": "/learning/covers/genai-30.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/genai-30-722730fcec50-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-30-722730fcec50-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/genai-30-722730fcec50-900.webp",
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "url": "/learning/GenAI%20-%2030.pdf",
+      "bytes": 11134419,
+      "updatedAt": "2026-09-09T04:40:30.615Z"
+    }
+  ]
+}

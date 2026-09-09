@@ -1,0 +1,10 @@
+{
+  "example_type": "synthetic_educational",
+  "task": "numeric",
+  "records": [
+    {"expected": 20, "predicted": 22},
+    {"expected": 35, "predicted": 32},
+    {"expected": 12, "predicted": 12},
+    {"expected": 50, "predicted": 55}
+  ]
+}

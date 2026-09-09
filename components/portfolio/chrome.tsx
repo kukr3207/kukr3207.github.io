@@ -1,4 +1,4 @@
-import { ArrowUpRight } from 'lucide-react';
+import { Navigation } from './navigation';
 export function Header() {
   return (
     <header className="site-header">
@@ -8,16 +8,7 @@ export function Header() {
           uday<span className="brand-note"> / AI FIELDNOTES</span>
         </span>
       </a>
-      <nav className="nav" aria-label="Main navigation">
-        <a href="/#case-studies">Case studies</a>
-        <a className="optional-nav" href="/#experience">
-          Experience
-        </a>
-        <a href="/lab/embeddings/">Lab</a>
-        <a className="contact-link" href="/#contact">
-          Let’s talk <ArrowUpRight size={15} />
-        </a>
-      </nav>
+      <Navigation />
     </header>
   );
 }
@@ -88,20 +79,30 @@ export function HeroDiagram() {
             fill="none"
           />
         </g>
-        <g className="hand" fontSize="21" fill="#202523">
-          <text x="57" y="83" transform="rotate(-2 57 83)">
-            the question
+        <g className="hand" fontSize="21" fill="#202523" textAnchor="middle">
+          <text x="98" y="68">
+            <tspan x="98">the</tspan>
+            <tspan x="98" dy="23">
+              question
+            </tspan>
           </text>
-          <text x="283" y="91" transform="rotate(1 283 91)">
-            find evidence
+          <text x="332" y="79">
+            <tspan x="332">find</tspan>
+            <tspan x="332" dy="23">
+              evidence
+            </tspan>
           </text>
-          <text x="170" y="217">
-            check the answer
+          <text x="220" y="202">
+            <tspan x="220">check the</tspan>
+            <tspan x="220" dy="23">
+              answer
+            </tspan>
           </text>
           <text
             x="62"
             y="270"
             fontSize="17"
+            textAnchor="start"
             fill="#687162"
             transform="rotate(-8 62 270)"
           >
@@ -116,15 +117,22 @@ export function HeroDiagram() {
           markerEnd="url(#hero-arrow)"
         />
         <rect
-          x="148"
+          x="130"
           y="293"
-          width="148"
+          width="184"
           height="38"
           rx="19"
           fill="#dbf796"
           transform="rotate(-2 220 312)"
         />
-        <text x="176" y="318" fontSize="17" className="hand" fill="#202523">
+        <text
+          x="222"
+          y="318"
+          textAnchor="middle"
+          fontSize="17"
+          className="hand"
+          fill="#202523"
+        >
           useful + grounded
         </text>
         <g fill="#243de2" className="hand" fontSize="17">
@@ -138,6 +146,14 @@ export function HeroDiagram() {
             fill="none"
           />
         </g>
+        <image
+          href="/illustrations/builder.png"
+          x="313"
+          y="207"
+          width="122"
+          height="122"
+          aria-hidden="true"
+        />
       </svg>
       <span className="diagram-note hand">
         a little less magic. a lot more evidence.

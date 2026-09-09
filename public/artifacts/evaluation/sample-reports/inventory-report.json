@@ -1,0 +1,10 @@
+{
+  "example_type": "synthetic_educational",
+  "metrics": {
+    "mae": 2.5,
+    "rmse": 3.0822070014844885
+  },
+  "parameters": {},
+  "record_count": 4,
+  "task": "numeric"
+}

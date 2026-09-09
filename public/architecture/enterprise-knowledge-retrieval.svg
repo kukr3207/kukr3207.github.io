@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1280" viewBox="0 0 1200 1280" role="img" aria-labelledby="title desc">
+<title id="title">Hybrid graph + vector retrieval</title><desc id="desc">A public architecture sketch of documented components. Connections summarize the workflow; internal interfaces are omitted.</desc>
+<rect width="100%" height="100%" rx="16" fill="#fafbf9"/>
+<g font-family="Kalam, Comic Sans MS, Segoe Print, cursive" fill="#202523">
+<text x="600" y="58" text-anchor="middle" font-size="34">Hybrid graph + vector retrieval</text>
+<text x="600" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#66715e">PUBLIC ARCHITECTURE SKETCH</text>
+<path d="M600 258 C600 292 600 290 600 316" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round"/>
+<path d="M593 305 L600 316 L607 305" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M600 442 C600 476 300 474 300 500" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round"/>
+<path d="M600 442 C600 476 900 474 900 500" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round"/>
+<path d="M293 489 L300 500 L307 489" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M893 489 L900 500 L907 489" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300 626 C300 660 600 658 600 684" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round"/>
+<path d="M900 626 C900 660 600 658 600 684" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round"/>
+<path d="M593 673 L600 684 L607 673" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M600 810 C600 844 600 842 600 868" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round"/>
+<path d="M593 857 L600 868 L607 857" fill="none" stroke="#202523" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M388 142 L812 140 L815 256 L385 259 Z" fill="#edf0ff" stroke="#202523" stroke-width="2" stroke-linejoin="round"/>
+<text x="600" y="189" text-anchor="middle" font-size="27">Question</text>
+<text x="600" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#536549">CopilotKit application</text>
+<path d="M388 326 L812 324 L815 440 L385 443 Z" fill="#ffffff" stroke="#202523" stroke-width="2" stroke-linejoin="round"/>
+<text x="600" y="373" text-anchor="middle" font-size="27">Query decomposition</text>
+<text x="600" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#536549">LangGraph agents</text>
+<path d="M88 510 L512 508 L515 624 L85 627 Z" fill="#ffffff" stroke="#202523" stroke-width="2" stroke-linejoin="round"/>
+<text x="300" y="557" text-anchor="middle" font-size="27">Graph retrieval</text>
+<text x="300" y="592" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#536549">Neo4j / structured sources</text>
+<path d="M688 510 L1112 508 L1115 624 L685 627 Z" fill="#ffffff" stroke="#202523" stroke-width="2" stroke-linejoin="round"/>
+<text x="900" y="557" text-anchor="middle" font-size="27">Vector retrieval</text>
+<text x="900" y="592" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#536549">Unstructured documents</text>
+<path d="M388 694 L812 692 L815 808 L385 811 Z" fill="#ffffff" stroke="#202523" stroke-width="2" stroke-linejoin="round"/>
+<text x="600" y="741" text-anchor="middle" font-size="27">Gather relevant context</text>
+<text x="600" y="776" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#536549">Document-search agents</text>
+<path d="M388 878 L812 876 L815 992 L385 995 Z" fill="#dbf796" stroke="#202523" stroke-width="2" stroke-linejoin="round"/>
+<text x="600" y="925" text-anchor="middle" font-size="27">Synthesize the answer</text>
+<text x="600" y="960" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#536549">LangGraph / application</text>
+<path d="M70 1065 H865" stroke="#aab69e" stroke-width="1.5" stroke-dasharray="5 6"/>
+<text x="75" y="1108" font-size="25" fill="#243de2">Supporting engineering</text>
+<text x="75" y="1142" font-size="19" font-family="Arial, sans-serif">Python + uv / Docker / Cloud Build + Cloud Run</text>
+<text x="75" y="1206" font-size="16" fill="#66715e" font-family="Arial, sans-serif">High-level representation. No internal endpoints, configurations or client data.</text>
+</g></svg>

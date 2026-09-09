@@ -1,20 +1,9 @@
 'use client';
 import { useState } from 'react';
-import { ArrowUpRight, ArrowRight, Plus, Check, Copy } from 'lucide-react';
-import {
-  Dialog,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-  DialogDescription,
-} from '@/components/ui/dialog';
-import {
-  Accordion,
-  AccordionItem,
-  AccordionTrigger,
-  AccordionContent,
-} from '@/components/ui/accordion';
-import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
+import { ArrowUpRight, Check, Copy } from 'lucide-react';
+import { Doodle } from './doodle';
+import { career } from '@/lib/career';
+import { projects } from '@/lib/projects';
 const engagements = [
   {
     name: 'G2i',
@@ -22,36 +11,37 @@ const engagements = [
     role: 'AI evaluation & benchmark engineering',
     type: 'Evaluation engineering',
     description:
-      'Three areas of contract work spanning task design, comparative model evaluation and the maintainability of generated code.',
+      'Three areas of freelance work spanning task design, comparative model evaluation and the maintainability of generated code.',
     bullets: [
       'Long-horizon coding benchmarks — Design repository-scale tasks, reference implementations and behavioral verifiers. Analyze model trajectories to separate implementation failures from specification, grading and environment issues.',
       'Reference solutions and model evaluation — Refine reference patches, check benchmark coverage and reproduce candidate solutions in controlled environments. Compare correctness, repository compatibility and code quality using documented evidence.',
       'Generated-code maintainability — Review patches against the requested change and existing architecture. Validate automated findings and document unnecessary complexity, duplication, weak tests and other maintenance concerns.',
     ],
     link: '/case-studies/verifier-design/',
-    label: 'Explore an independent verifier example',
+    label: 'Read the work overview',
     pending: false,
   },
   {
     name: 'Expertquery',
     mark: 'eq',
-    role: 'Feature-task engineering',
+    role: 'Software-engineering task authoring',
     type: 'Task authoring',
     description:
-      'Feature-oriented coding tasks built around clear requirements, executable tests and validated reference solutions.',
+      'Realistic features, fixes and enhancements built around behavioral requirements, reference implementations and held-out tests in reproducible environments.',
     bullets: [
-      'Translate feature requirements into a bounded implementation task.',
-      'Develop automated checks and validate reference behavior.',
-      'Resolve ambiguity and incorporate quality-review feedback.',
+      'Define self-contained requirements through public inputs, outputs, errors and edge cases.',
+      'Develop reference implementations and separate held-out behavioral tests.',
+      'Check baseline failures, reference passes and existing regression coverage.',
+      'Prepare reproducible environments and refine tasks using validation and review feedback.',
     ],
     link: '/case-studies/verifier-design/',
-    label: 'Read the verifier fieldnote',
+    label: 'Read the work overview',
     pending: false,
   },
   {
     name: 'Alignerr',
     mark: 'a',
-    role: 'Contract engagement',
+    role: 'Freelance engagement',
     type: 'Project notes forthcoming',
     description:
       'A place for selected Alignerr project notes. Responsibilities, dates and outcomes will be added after review.',
@@ -63,7 +53,7 @@ const engagements = [
   {
     name: 'Toptal',
     mark: 't',
-    role: 'Contract engagement',
+    role: 'Freelance engagement',
     type: 'Project notes forthcoming',
     description:
       'A place for selected Toptal project notes. Responsibilities, dates and outcomes will be added after review.',
@@ -73,150 +63,119 @@ const engagements = [
     pending: true,
   },
 ];
-const roles = [
-  {
-    name: 'Netskope',
-    role: 'Senior Developer · AI & Automation',
-    focus: 'Production RAG and agent systems',
-    detail:
-      'LangGraph, Neo4j and CopilotKit workflows; Python services, Docker and deployments on GCP.',
-  },
-  {
-    name: 'ServiceNow',
-    role: 'Machine Learning Engineer',
-    focus: 'Enterprise AI and incident automation',
-    detail:
-      'Retrieval pipelines and agent workflows for incident investigation, context gathering and operational automation.',
-  },
-  {
-    name: 'SWYM',
-    role: 'Software Engineer',
-    focus: 'Recommendations and commerce analytics',
-    detail:
-      'Recommendation pipelines on Databricks and Spark, with Streamlit tools for exploring commerce data.',
-  },
-  {
-    name: 'Synopsys',
-    role: 'Technical Engineer · Machine Learning',
-    focus: 'Applied ML and data systems',
-    detail:
-      'Anomaly detection, NLP workflows, experiment tracking and data engineering for internal systems.',
-  },
-];
 export function Experience() {
-  const [open, setOpen] = useState<number | null>(null);
-  const item = open === null ? null : engagements[open];
   return (
-    <section id="experience" className="section experience-section">
+    <section
+      id="experience"
+      className="section experience-section"
+      aria-labelledby="experience-title"
+    >
       <div className="section-header">
         <div>
-          <div className="eyebrow">02 / SELECTED EXPERIENCE</div>
-          <h2>
-            Building, testing.
+          <div className="eyebrow">01 / PROFESSIONAL EXPERIENCE</div>
+          <h2 id="experience-title">
+            AI systems,
             <br />
-            And doing it again.
+            <span className="hand" style={{ color: 'var(--primary)' }}>
+              in production.
+            </span>
           </h2>
         </div>
+        <div className="section-aside">
+          <Doodle kind="builder" />
+          <p>
+            Professional experience across enterprise AI, automation,
+            recommendations and applied machine learning.
+          </p>
+        </div>
+      </div>
+      <span id="projects" className="section-anchor" />
+      <span id="case-studies" className="section-anchor" />
+      <ol className="career-timeline">
+        {career.map((role) => {
+          const count = projects.filter(
+            (project) => project.company === role.name,
+          ).length;
+          return (
+            <li key={role.slug}>
+              <div className="career-dates">{role.dates}</div>
+              <a className="career-entry" href={`/experience/${role.slug}/`}>
+                <div className="career-entry-heading">
+                  <div>
+                    <h3>{role.name}</h3>
+                    <p className="career-role">{role.role}</p>
+                  </div>
+                  <ArrowUpRight size={22} aria-hidden="true" />
+                </div>
+                <p className="career-focus">{role.focus}</p>
+                <span className="career-explore">
+                  Explore {count} {count === 1 ? 'project' : 'projects'} &
+                  architecture notes{' '}
+                  <ArrowUpRight size={16} aria-hidden="true" />
+                </span>
+              </a>
+            </li>
+          );
+        })}
+      </ol>
+    </section>
+  );
+}
+export function FreelanceExperience() {
+  return (
+    <section
+      id="contracting"
+      className="section contracts-secondary"
+      aria-labelledby="contracts-title"
+    >
+      <div className="contracts-heading">
+        <div>
+          <span className="eyebrow">02 / FREELANCE EXPERIENCE</span>
+          <h2 id="contracts-title">Freelance & evaluation work.</h2>
+        </div>
         <p>
-          Production engineering and contract work across applied AI and model
-          evaluation.
+          Selected engagements in coding benchmarks, model evaluation and task
+          design.
         </p>
       </div>
-      <Tabs defaultValue="contracts">
-        <TabsList className="experience-tabs">
-          <TabsTrigger value="contracts">Contract engagements</TabsTrigger>
-          <TabsTrigger value="production">Production engineering</TabsTrigger>
-        </TabsList>
-        <TabsContent value="contracts">
-          <div className="contract-grid">
-            {engagements.map((e, i) => (
-              <button
-                key={e.name}
-                className="contract-card"
-                onClick={() => setOpen(i)}
-              >
-                <div className="contract-card-top">
-                  <span className={`contract-mark mark-${i}`}>{e.mark}</span>
-                  <ArrowUpRight size={19} />
-                </div>
-                <span className="contract-type">{e.type}</span>
-                <h3>{e.name}</h3>
-                <p>{e.role}</p>
-                <span className="contract-more">
-                  {e.pending ? 'View placeholder' : 'View engagement'}{' '}
-                  <Plus size={14} />
-                </span>
-              </button>
-            ))}
-          </div>
-          <div className="evaluation-practice">
-            <span className="eyebrow">HOW I EVALUATE MODELS</span>
-            <h3>Prompt. Compare. Follow through.</h3>
-            <p>
-              Design an open-ended engineering prompt, then compare two models’
-              outputs and execution trajectories. Write rubrics and
-              evidence-based rationales, and develop follow-up prompts that test
-              whether each model can sustain progress over an extended session.
-            </p>
-          </div>
-          <p className="engagement-note">
-            Experience summaries only. The experiments on this site are
-            independently created teaching examples, not client deliverables.
-          </p>
-        </TabsContent>
-        <TabsContent value="production">
-          <Accordion className="career-list">
-            {roles.map((r) => (
-              <AccordionItem value={r.name} key={r.name} className="career-row">
-                <AccordionTrigger>
-                  <span>
-                    <strong>{r.name}</strong>
-                    <small>{r.role}</small>
-                  </span>
-                  <span>{r.focus}</span>
-                </AccordionTrigger>
-                <AccordionContent>
-                  <p>{r.detail}</p>
-                </AccordionContent>
-              </AccordionItem>
-            ))}
-          </Accordion>
-        </TabsContent>
-      </Tabs>
-      <Dialog
-        open={open !== null}
-        onOpenChange={(v) => {
-          if (!v) setOpen(null);
-        }}
-      >
-        <DialogContent className="engagement-dialog">
-          <DialogHeader>
-            <span className="eyebrow">CONTRACT ENGAGEMENT</span>
-            <DialogTitle>{item?.name}</DialogTitle>
-            <DialogDescription>{item?.role}</DialogDescription>
-          </DialogHeader>
-          <p>{item?.description}</p>
-          {item?.bullets.length ? (
-            <ul>
-              {item.bullets.map((b) => (
-                <li key={b}>{b}</li>
-              ))}
-            </ul>
-          ) : (
-            <div className="placeholder-note">
-              <span className="hand">Notes to come.</span>
-              <p>
-                This section is reserved for project details that Uday will add.
-              </p>
+      <div className="contract-grid">
+        {engagements.map((e, i) => (
+          <article key={e.name} className="contract-card static-engagement">
+            <div className="contract-card-top">
+              <span className={`contract-mark mark-${i}`}>{e.mark}</span>
             </div>
-          )}
-          {item?.link && (
-            <a href={item.link} className="action secondary">
-              {item.label} <ArrowRight size={16} />
-            </a>
-          )}
-        </DialogContent>
-      </Dialog>
+            <span className="contract-type">{e.type}</span>
+            <h3>{e.name}</h3>
+            <p>{e.role}</p>
+            <p className="contract-summary">{e.description}</p>
+            {e.link && (
+              <a className="text-link" href={e.link}>
+                {e.label} <ArrowUpRight size={15} />
+              </a>
+            )}
+          </article>
+        ))}
+      </div>
+      <div className="evaluation-practice illustrated-evaluation">
+        <div>
+          <span className="eyebrow">HOW I EVALUATE MODELS</span>
+          <h3>Prompt. Compare. Follow through.</h3>
+          <p>
+            Design an open-ended engineering prompt, then compare two models’
+            outputs and execution trajectories. Write rubrics and evidence-based
+            rationales, and develop follow-up prompts that test whether each
+            model can sustain progress over an extended session.
+          </p>
+          <a className="text-link" href="/case-studies/verifier-design/">
+            Read the evaluation work overview <ArrowUpRight size={16} />
+          </a>
+        </div>
+        <Doodle kind="explainer" />
+      </div>
+      <p className="engagement-note">
+        High-level summaries of engineering responsibilities across these
+        engagements.
+      </p>
     </section>
   );
 }
@@ -235,15 +194,18 @@ export function Contact() {
   }
   return (
     <section className="contact-band" id="contact">
-      <div>
-        <span className="eyebrow">GOOD QUESTIONS WELCOME</span>
-        <h2>
-          Let’s compare <span className="hand">notes.</span>
-        </h2>
-        <p>
-          Working through a retrieval problem, an agent workflow, or an
-          evaluation that doesn’t quite add up?
-        </p>
+      <div className="contact-intro">
+        <Doodle kind="explainer" />
+        <div>
+          <span className="eyebrow">GOOD QUESTIONS WELCOME</span>
+          <h2>
+            Let’s compare <span className="hand">notes.</span>
+          </h2>
+          <p>
+            Working through a retrieval problem, an agent workflow, or an
+            evaluation that doesn’t quite add up?
+          </p>
+        </div>
       </div>
       <div className="contact-actions">
         <a

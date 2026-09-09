@@ -1,0 +1,10 @@
+{
+  "example_type": "synthetic_educational",
+  "task": "ranking",
+  "k": 2,
+  "records": [
+    {"retrieved_ids": ["book-x", "book-a", "book-b"], "relevant_ids": ["book-a", "book-b"]},
+    {"retrieved_ids": ["book-c"], "relevant_ids": ["book-c"]},
+    {"retrieved_ids": [], "relevant_ids": ["book-d"]}
+  ]
+}

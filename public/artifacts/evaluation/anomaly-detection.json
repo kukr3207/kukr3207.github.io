@@ -1,0 +1,13 @@
+{
+  "example_type": "synthetic_educational",
+  "task": "classification",
+  "labels": ["normal", "anomaly"],
+  "records": [
+    {"expected_label": "normal", "predicted_label": "normal"},
+    {"expected_label": "normal", "predicted_label": "anomaly"},
+    {"expected_label": "anomaly", "predicted_label": "anomaly"},
+    {"expected_label": "anomaly", "predicted_label": null},
+    {"expected_label": "normal", "predicted_label": "normal"},
+    {"expected_label": "anomaly", "predicted_label": "normal"}
+  ]
+}

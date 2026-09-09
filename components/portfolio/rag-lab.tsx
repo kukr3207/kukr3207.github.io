@@ -12,6 +12,7 @@ import {
   type Strategy,
 } from '@/lib/demo-engine';
 import { useWebMCP } from '@/lib/use-webmcp';
+import { ModelPanel } from '@/components/lab/model-panel';
 const schema = {
   type: 'object',
   properties: {
@@ -274,11 +275,18 @@ export function RagLab() {
           </div>
         </div>
       </div>
+      <ModelPanel
+        key={`${plan}-${strategy}-${question}`}
+        kind="rag"
+        payload={{ plan, strategy }}
+        question={question}
+      />
       <p className="demo-disclosure">
         Original teaching demo. Document search uses term matching;
-        graph-assisted answers follow explicit relationships and fixed rules. No
-        live LLM, embedding model, LangGraph runtime or Neo4j server is
-        connected.
+        graph-assisted answers follow explicit relationships and fixed rules.
+        The optional live response uses those retrieved records through
+        OmniRoute. No LangGraph runtime, Neo4j server or learned embedding model
+        is connected.
       </p>
     </section>
   );

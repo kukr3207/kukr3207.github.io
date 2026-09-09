@@ -1,0 +1,17 @@
+{
+  "example_type": "synthetic_educational",
+  "metrics": {
+    "accuracy": 0.6666666666666666,
+    "coverage": 0.8333333333333334,
+    "selective_accuracy": 0.8
+  },
+  "parameters": {
+    "labels": [
+      "positive",
+      "neutral",
+      "negative"
+    ]
+  },
+  "record_count": 6,
+  "task": "classification"
+}

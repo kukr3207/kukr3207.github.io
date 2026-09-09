@@ -1,4 +1,5 @@
 'use client';
+import { ModelPanel } from '@/components/lab/model-panel';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Pause, Play, RotateCcw, ArrowUpRight } from 'lucide-react';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
@@ -331,6 +332,14 @@ export function EmbeddingLab({ compact = false }: { compact?: boolean }) {
           Illustrative 3D coordinates, not real text embeddings. Proximity alone
           does not establish relevance or correctness.
         </p>
+        {!compact && (
+          <ModelPanel
+            key={`${group}-${separation}`}
+            kind="vectors"
+            payload={{ group, separation }}
+            question="What does this nearest-neighbor ranking tell us, and what would you test before trusting it for retrieval?"
+          />
+        )}
       </div>
     </div>
   );

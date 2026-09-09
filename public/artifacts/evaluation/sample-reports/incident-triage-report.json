@@ -1,0 +1,17 @@
+{
+  "example_type": "synthetic_educational",
+  "metrics": {
+    "accuracy": 0.6,
+    "coverage": 0.8,
+    "selective_accuracy": 0.75
+  },
+  "parameters": {
+    "labels": [
+      "application",
+      "database",
+      "network"
+    ]
+  },
+  "record_count": 5,
+  "task": "classification"
+}

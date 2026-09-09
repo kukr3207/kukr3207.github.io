@@ -1,0 +1,13 @@
+{
+  "example_type": "synthetic_educational",
+  "metrics": {
+    "mrr_at_k": 0.5,
+    "precision_at_k": 0.3333333333333333,
+    "recall_at_k": 0.5
+  },
+  "parameters": {
+    "k": 2
+  },
+  "record_count": 3,
+  "task": "ranking"
+}

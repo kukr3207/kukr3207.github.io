@@ -1,0 +1,414 @@
+{
+  "Agentic - 1.pdf": {
+    "title": "Not Every AI That Uses Tools Is an Agent",
+    "summary": "The difference between using a tool and working toward a goal with decisions and feedback.",
+    "topics": ["Agent basics", "Goals", "Feedback"],
+    "pages": 7,
+    "order": 1,
+    "cover": "agentic-1.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 2.pdf": {
+    "title": "Chatbot vs Workflow vs Agent",
+    "summary": "Compare conversational responses, predefined workflows and agents that choose their next action.",
+    "topics": ["Chatbots", "Workflows", "Agents"],
+    "pages": 12,
+    "order": 2,
+    "cover": "agentic-2.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 3.pdf": {
+    "title": "Inside an AI Agent: Brain + Tools + Memory + Rules",
+    "summary": "A visual introduction to the components that make an agent useful.",
+    "topics": ["Agent architecture", "Tools", "Memory"],
+    "pages": 15,
+    "order": 3,
+    "cover": "agentic-3.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 4.pdf": {
+    "title": "The Agent Loop: How an AI Agent Gets Things Done",
+    "summary": "Follow an agent through decisions, actions and observations as it works toward a goal.",
+    "topics": ["Agent loop", "Actions", "Observations"],
+    "pages": 15,
+    "order": 4,
+    "cover": "agentic-4.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 5.pdf": {
+    "title": "Not Every Problem Needs an AI Agent",
+    "summary": "Consider when an agent helps and when a simpler approach fits the task.",
+    "topics": ["System design", "Tradeoffs", "Workflows"],
+    "pages": 15,
+    "order": 5,
+    "cover": "agentic-5.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 6.pdf": {
+    "title": "How AI Agents Use Tools",
+    "summary": "Explore how tools connect an agent to actions outside the language model.",
+    "topics": ["Tool use", "Actions", "Agent design"],
+    "pages": 16,
+    "order": 6,
+    "cover": "agentic-6.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 7.pdf": {
+    "title": "How AI Agents Plan Their Next Move",
+    "summary": "Explore ReAct, plan-and-execute and hybrid planning, with examples of replanning, progress tracking and stopping conditions.",
+    "topics": ["ReAct", "Planning", "Stop conditions"],
+    "pages": 16,
+    "order": 7,
+    "cover": "agentic-7.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 8.pdf": {
+    "title": "How AI Agents Remember",
+    "summary": "Understand working and long-term memory, then follow how agents store, retrieve, correct and delete information.",
+    "topics": ["Working memory", "Long-term memory", "Retrieval"],
+    "pages": 17,
+    "order": 8,
+    "cover": "agentic-8.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 9.pdf": {
+    "title": "A Smart Agent Can Still Fail with the Wrong Context",
+    "summary": "Learn how to gather, select and structure context while preserving source authority and boundaries around untrusted content.",
+    "topics": ["Context engineering", "Source authority", "Prompt injection"],
+    "pages": 17,
+    "order": 9,
+    "cover": "agentic-9.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 10.pdf": {
+    "title": "Traditional RAG vs Agentic RAG",
+    "summary": "Compare fixed retrieval pipelines with query decomposition, source routing and iterative evidence gathering.",
+    "topics": ["RAG", "Agentic retrieval", "Query decomposition"],
+    "pages": 19,
+    "order": 10,
+    "cover": "agentic-10.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 11.pdf": {
+    "title": "Building a Capable Single Agent",
+    "summary": "Design a focused agent with success criteria, useful tools, relevant context, working state and behavioral evaluation.",
+    "topics": ["Agent architecture", "Tool design", "Evaluation"],
+    "pages": 19,
+    "order": 11,
+    "cover": "agentic-11.png",
+    "series": "Agentic AI"
+  },
+  "Agentic - 12 (1).pdf": {
+    "title": "When One AI Agent Becomes a Team",
+    "summary": "Explore specialist routing, handoffs, supervisors and parallel agents, including the costs of coordinating their work.",
+    "topics": ["Multi-agent systems", "Supervisors", "Handoffs"],
+    "pages": 20,
+    "order": 12,
+    "cover": "agentic-12.png",
+    "series": "Agentic AI"
+  },
+  "GenAI - 1.pdf": {
+    "title": "What exactly IS Artificial Intelligence?",
+    "summary": "An introduction to artificial intelligence that starts with the basic idea of what AI is.",
+    "topics": ["AI basics", "Artificial intelligence"],
+    "series": "GenAI",
+    "order": 1,
+    "lesson": 1,
+    "pages": 7,
+    "cover": "genai-1.png"
+  },
+  "GenAI - 2.pdf": {
+    "title": "Unlocking Creativity: What is Generative AI?",
+    "summary": "Introduces generative AI and its ability to create content such as images, music and text.",
+    "topics": ["Generative AI", "Content generation"],
+    "series": "GenAI",
+    "order": 2,
+    "lesson": 2,
+    "pages": 7,
+    "cover": "genai-2.png"
+  },
+  "GenAI - 3.pdf": {
+    "title": "Meet GANs: The “Art Battle” of AI",
+    "summary": "Explains how a generator and discriminator compete to produce realistic generated content.",
+    "topics": ["GANs", "Generators", "Discriminators"],
+    "series": "GenAI",
+    "order": 3,
+    "lesson": 3,
+    "pages": 7,
+    "cover": "genai-3.png"
+  },
+  "GenAI - 4.pdf": {
+    "title": "The Future is Here: Transformers & Diffusion!",
+    "summary": "Introduces transformers and diffusion models as foundations for modern text and image generation.",
+    "topics": ["Transformers", "Diffusion models", "Generative models"],
+    "series": "GenAI",
+    "order": 4,
+    "lesson": 4,
+    "pages": 7,
+    "cover": "genai-4.png"
+  },
+  "GenAI - 5.pdf": {
+    "title": "With Great Power Comes Responsibility!",
+    "summary": "Introduces ethical AI and the responsibility that comes with using generative technology.",
+    "topics": ["AI ethics", "Responsible AI"],
+    "series": "GenAI",
+    "order": 5,
+    "lesson": 5,
+    "pages": 7,
+    "cover": "genai-5.png"
+  },
+  "GenAI - 6.pdf": {
+    "title": "Prompt Engineering: The Art of Talking to AI",
+    "summary": "Introduces prompt engineering as a way to communicate requests and guide AI outputs.",
+    "topics": ["Prompt engineering", "AI instructions"],
+    "series": "GenAI",
+    "order": 6,
+    "lesson": 6,
+    "pages": 7,
+    "cover": "genai-6.png"
+  },
+  "GenAI - 7.pdf": {
+    "title": "You’ve Learned the Theory, Now Let’s Build!",
+    "summary": "Moves from AI theory to approachable projects that learners can build themselves.",
+    "topics": ["AI projects", "Applied generative AI"],
+    "series": "GenAI",
+    "order": 7,
+    "lesson": 7,
+    "pages": 7,
+    "cover": "genai-7.png"
+  },
+  "GenAI - 8.pdf": {
+    "title": "What’s the “Brain” Behind ChatGPT?",
+    "summary": "Introduces large language models and their role in systems such as ChatGPT.",
+    "topics": ["Large language models", "Language generation", "ChatGPT"],
+    "series": "GenAI",
+    "order": 8,
+    "lesson": 8,
+    "pages": 7,
+    "cover": "genai-8.png"
+  },
+  "GenAI - 9.pdf": {
+    "title": "Midjourney: Your Personal AI Artist!",
+    "summary": "Introduces Midjourney as a tool for creating AI-generated images.",
+    "topics": ["Midjourney", "Image generation"],
+    "series": "GenAI",
+    "order": 9,
+    "lesson": 9,
+    "pages": 7,
+    "cover": "genai-9.png"
+  },
+  "GenAI - 10.pdf": {
+    "title": "Mastering ChatGPT: Tips, Tricks & Plugins!",
+    "summary": "Presents tips, workflows and the plugin concepts covered in this ChatGPT learning module.",
+    "topics": ["ChatGPT", "Prompting", "AI workflows"],
+    "series": "GenAI",
+    "order": 10,
+    "lesson": 10,
+    "pages": 7,
+    "cover": "genai-10.png"
+  },
+  "GenAI - 11.pdf": {
+    "title": "Putting AI to Work: Real-World Use Cases!",
+    "summary": "Explore how generative AI supports everyday work, creative tasks and hobbies.",
+    "topics": ["GenAI applications", "LLMs", "Diffusion models"],
+    "series": "GenAI",
+    "order": 11,
+    "lesson": 11,
+    "pages": 7,
+    "cover": "genai-11.png"
+  },
+  "GenAI - 12.pdf": {
+    "title": "The Future is Here: What are AI Agents?",
+    "summary": "Introduce AI agents through a simple example of an assistant that acts on a request.",
+    "topics": ["AI agents", "Task execution", "Automation"],
+    "series": "GenAI",
+    "order": 12,
+    "lesson": 12,
+    "pages": 7,
+    "cover": "genai-12.png"
+  },
+  "GenAI - 13.pdf": {
+    "title": "AI in Healthcare: Saving Lives with Data",
+    "summary": "Explore an introductory overview of AI applications in healthcare.",
+    "topics": ["Healthcare AI", "Data", "AI applications"],
+    "series": "GenAI",
+    "order": 13,
+    "lesson": 13,
+    "pages": 7,
+    "cover": "genai-13.png"
+  },
+  "GenAI - 14.pdf": {
+    "title": "The End of AI Hallucinations? Meet RAG!",
+    "summary": "Introduce retrieval-augmented generation and its role in grounding model responses in external information.",
+    "topics": ["RAG", "Hallucinations", "Grounding"],
+    "series": "GenAI",
+    "order": 14,
+    "lesson": 14,
+    "pages": 7,
+    "cover": "genai-14.png"
+  },
+  "GenAI - 15.pdf": {
+    "title": "The AI’s Secret Language: Vector Embeddings",
+    "summary": "Explain how vector embeddings represent words and their meaning as numbers.",
+    "topics": ["Vector embeddings", "Semantic meaning", "Representations"],
+    "series": "GenAI",
+    "order": 15,
+    "lesson": 15,
+    "pages": 7,
+    "cover": "genai-15.png"
+  },
+  "GenAI - 16.pdf": {
+    "title": "Fine-Tuning vs. RAG: Customizing Your AI!",
+    "summary": "Compare fine-tuning and retrieval-augmented generation as approaches to customizing an AI system.",
+    "topics": ["Fine-tuning", "RAG", "Customization"],
+    "series": "GenAI",
+    "order": 16,
+    "lesson": 16,
+    "pages": 7,
+    "cover": "genai-16.png"
+  },
+  "GenAI - 17.pdf": {
+    "title": "Multimodal AI: AI That Sees, Hears & Understands!",
+    "summary": "Introduce AI systems that work across text, images and audio.",
+    "topics": ["Multimodal AI", "Vision", "Audio"],
+    "series": "GenAI",
+    "order": 17,
+    "lesson": 17,
+    "pages": 7,
+    "cover": "genai-17.png"
+  },
+  "GenAI - 18.pdf": {
+    "title": "Generative AI for Code: From Idea to App!",
+    "summary": "Explore how generative AI can assist with writing, debugging and explaining code.",
+    "topics": ["Coding assistants", "Debugging", "Code generation"],
+    "series": "GenAI",
+    "order": 18,
+    "lesson": 18,
+    "pages": 7,
+    "cover": "genai-18.png"
+  },
+  "GenAI - 19.pdf": {
+    "title": "The RAG Indexing Pipeline: Building the AI’s Brain",
+    "summary": "Introduce the offline indexing process that prepares documents for a RAG knowledge library.",
+    "topics": ["RAG", "Document indexing", "Knowledge retrieval"],
+    "series": "GenAI",
+    "order": 19,
+    "lesson": 19,
+    "pages": 7,
+    "cover": "genai-19.png"
+  },
+  "GenAI - 20.pdf": {
+    "title": "The Art of Retrieval: Finding the Right Information",
+    "summary": "Explore how a retrieval system searches a vector database for information relevant to a question.",
+    "topics": ["Retrieval", "Vector databases", "Search"],
+    "series": "GenAI",
+    "order": 20,
+    "lesson": 20,
+    "pages": 7,
+    "cover": "genai-20.png"
+  },
+  "GenAI - 21.pdf": {
+    "title": "The Generation Step: Synthesizing the Final Answer",
+    "summary": "Introduces how an LLM combines retrieved context into a final answer during the generation stage.",
+    "topics": ["Answer generation", "Context synthesis", "LLMs"],
+    "series": "GenAI",
+    "order": 21,
+    "lesson": 21,
+    "pages": 7,
+    "cover": "genai-21.png"
+  },
+  "GenAI - 22.pdf": {
+    "title": "Advanced Retrieval: From Good to GREAT",
+    "summary": "Explains why basic vector similarity can miss relevant information and motivates more precise retrieval for vague or multi-part questions.",
+    "topics": ["Advanced retrieval", "Vector search", "Retrieval relevance"],
+    "series": "GenAI",
+    "order": 22,
+    "lesson": 22,
+    "pages": 7,
+    "cover": "genai-22.png"
+  },
+  "GenAI - 23.pdf": {
+    "title": "Evaluating Your RAG System: Is It Actually Working?",
+    "summary": "Introduces objective measurement of RAG answer quality, contrasting evaluation metrics with informal impressions.",
+    "topics": ["RAG evaluation", "Answer relevance", "Quality measurement"],
+    "series": "GenAI",
+    "order": 23,
+    "lesson": 23,
+    "pages": 7,
+    "cover": "genai-23.png"
+  },
+  "GenAI - 24.pdf": {
+    "title": "The Full RAG Blueprint: Anatomy of a Production System",
+    "summary": "Connects the offline knowledge-indexing pipeline with the live retrieval-and-generation pipeline in a production RAG architecture.",
+    "topics": ["RAG architecture", "Indexing pipelines", "Live retrieval"],
+    "series": "GenAI",
+    "order": 24,
+    "lesson": 24,
+    "pages": 7,
+    "cover": "genai-24.png"
+  },
+  "GenAI - 25.pdf": {
+    "title": "The AI Agent Deep Dive: What is an AI Agent?",
+    "summary": "Introduces AI agents as systems that move beyond answering questions to completing tasks.",
+    "topics": ["AI agents", "Task execution", "LLMs"],
+    "series": "GenAI",
+    "order": 25,
+    "lesson": 25,
+    "pages": 7,
+    "cover": "genai-25.png"
+  },
+  "GenAI - 26.pdf": {
+    "title": "The Anatomy of an AI Agent: Under the Hood",
+    "summary": "Introduces the LLM core, tool kit and memory as the main components of an AI agent.",
+    "topics": ["Agent architecture", "Tools", "Memory"],
+    "series": "GenAI",
+    "order": 26,
+    "lesson": 26,
+    "pages": 7,
+    "cover": "genai-26.png"
+  },
+  "GenAI - 27.pdf": {
+    "title": "The ReAct Framework: How Agents ‘Think’ & Act",
+    "summary": "Introduces ReAct as a framework connecting step-by-step reasoning with actions in AI agents.",
+    "topics": ["ReAct", "Reasoning", "Agent actions"],
+    "series": "GenAI",
+    "order": 27,
+    "lesson": 27,
+    "pages": 7,
+    "cover": "genai-27.png"
+  },
+  "GenAI - 28.pdf": {
+    "title": "Agents with Superpowers: Giving Your Agent Tools",
+    "summary": "Introduces how adding tools expands the practical capabilities of a ReAct agent.",
+    "topics": ["Agent tools", "ReAct", "Tool capabilities"],
+    "series": "GenAI",
+    "order": 28,
+    "lesson": 28,
+    "pages": 7,
+    "cover": "genai-28.png"
+  },
+  "GenAI - 29.pdf": {
+    "title": "Multi-Agent Systems: Collaboration for Complexity",
+    "summary": "Introduces collaboration between specialized agents, including research, planning and communication roles.",
+    "topics": ["Multi-agent systems", "Specialization", "Collaboration"],
+    "series": "GenAI",
+    "order": 29,
+    "lesson": 29,
+    "pages": 7,
+    "cover": "genai-29.png"
+  },
+  "GenAI - 30.pdf": {
+    "title": "The Future & Challenges of Agents: The Road Ahead",
+    "summary": "Introduces a vision of agents as collaborators in personal administration, science and software, alongside the challenges ahead.",
+    "topics": [
+      "Agent collaboration",
+      "Future applications",
+      "Agent challenges"
+    ],
+    "series": "GenAI",
+    "order": 30,
+    "lesson": 30,
+    "pages": 7,
+    "cover": "genai-30.png"
+  }
+}

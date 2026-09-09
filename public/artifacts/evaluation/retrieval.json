@@ -1,0 +1,10 @@
+{
+  "example_type": "synthetic_educational",
+  "task": "ranking",
+  "k": 3,
+  "records": [
+    {"retrieved_ids": ["guide-a", "guide-x", "guide-b"], "relevant_ids": ["guide-a", "guide-b"]},
+    {"retrieved_ids": ["guide-y", "guide-c"], "relevant_ids": ["guide-c", "guide-d"]},
+    {"retrieved_ids": ["guide-z"], "relevant_ids": ["guide-e"]}
+  ]
+}

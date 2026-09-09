@@ -1,0 +1,79 @@
+{
+  "enterprise-knowledge-retrieval": {
+    "title": "Hybrid graph + vector retrieval",
+    "rows": [
+      [["Question", "CopilotKit application"]],
+      [["Query decomposition", "LangGraph agents"]],
+      [
+        ["Graph retrieval", "Neo4j / structured sources"],
+        ["Vector retrieval", "Unstructured documents"]
+      ],
+      [["Gather relevant context", "Document-search agents"]],
+      [["Synthesize the answer", "LangGraph / application"]]
+    ],
+    "delivery": "Python + uv / Docker / Cloud Build + Cloud Run"
+  },
+  "incident-intelligence": {
+    "title": "Agents for incident investigation",
+    "rows": [
+      [
+        ["Current incident", "Investigation context"],
+        ["Incident history", "Related events and records"]
+      ],
+      [["Domain retrieval", "Relevant historical context"]],
+      [["Agent orchestration", "LangChain + CrewAI"]],
+      [
+        ["Historical patterns", "Similar incidents"],
+        ["Alert prioritization", "Investigation workflow"]
+      ],
+      [["Root-cause hypotheses", "Context for investigation"]]
+    ],
+    "delivery": "Python / retrieval pipelines / incident-management agents"
+  },
+  "commerce-recommendations": {
+    "title": "From interactions to recommendations",
+    "rows": [
+      [["Customer interactions", "Commerce behavior"]],
+      [["Process interaction data", "Python + Spark"]],
+      [["Recommendation pipeline", "Databricks + Recommenders"]],
+      [["Personalized feeds", "Product recommendations"]]
+    ],
+    "delivery": "Production data + ML pipelines / Python + Spark / Databricks"
+  },
+  "inventory-revenue-analytics": {
+    "title": "Connecting inventory with opportunity",
+    "rows": [
+      [
+        ["Inventory data", "Stock availability"],
+        ["Commerce context", "Product and revenue data"]
+      ],
+      [["Prepare and analyze", "Python data workflows"]],
+      [
+        ["Stockout signals", "Inventory gaps"],
+        ["Revenue analysis", "Potential opportunity"]
+      ],
+      [["Explore the findings", "Streamlit analytics"]]
+    ],
+    "delivery": "Python / data analysis / Streamlit"
+  },
+  "support-anomaly-detection": {
+    "title": "Anomaly signals for IT support",
+    "rows": [
+      [["IT support data", "Operational observations"]],
+      [["Prepare the data", "Internal data pipelines"]],
+      [["Anomaly detection", "Applied ML models"]],
+      [["Operational signals", "More useful support alerts"]]
+    ],
+    "delivery": "Python / data pipelines / internal ML workflows"
+  },
+  "support-sentiment-analysis": {
+    "title": "From support tickets to sentiment",
+    "rows": [
+      [["Support tickets", "Text feedback"]],
+      [["Text processing", "NLP workflow"]],
+      [["Sentiment classification", "NLP classifier"]],
+      [["Service-quality insights", "Analyze the support experience"]]
+    ],
+    "delivery": "Python / NLP / sentiment classification"
+  }
+}

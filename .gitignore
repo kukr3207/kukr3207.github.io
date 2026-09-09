@@ -38,3 +38,7 @@ next-env.d.ts
 /work/
 
 *.tsbuildinfo
+
+/.local/
+/public/pdfjs/
+!.env.example

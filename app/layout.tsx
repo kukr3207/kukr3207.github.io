@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     template: '%s — Uday / AI Fieldnotes',
   },
   description:
-    'Uday Kondreddy’s engineering notebook. Interactive case studies on retrieval, agent systems, and fair evaluation.',
+    'Production AI engineering by Uday Kondreddy. Selected projects in retrieval, agent systems, recommendations and applied machine learning.',
   icons: { icon: '/favicon.svg' },
 };
 export default function RootLayout({

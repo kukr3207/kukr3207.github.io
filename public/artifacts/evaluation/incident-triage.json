@@ -1,0 +1,12 @@
+{
+  "example_type": "synthetic_educational",
+  "task": "classification",
+  "labels": ["application", "database", "network"],
+  "records": [
+    {"expected_label": "application", "predicted_label": "application"},
+    {"expected_label": "database", "predicted_label": "database"},
+    {"expected_label": "network", "predicted_label": "application"},
+    {"expected_label": "database", "predicted_label": null},
+    {"expected_label": "network", "predicted_label": "network"}
+  ]
+}
