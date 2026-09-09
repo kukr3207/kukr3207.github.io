@@ -41,14 +41,14 @@ const engagements = [
   {
     name: 'Alignerr',
     mark: 'a',
-    role: 'Freelance engagement',
-    type: 'Project notes forthcoming',
+    role: 'Long-horizon model evaluation',
+    type: 'Comparative evaluation',
     description:
-      'A place for selected Alignerr project notes. Responsibilities, dates and outcomes will be added after review.',
+      'Compare two models on extended build tasks, writing rubrics and rationales from their outputs and trajectories. Continue with follow-up prompts until either model exceeds 1M cumulative tokens.',
     bullets: [],
-    link: null,
-    label: null,
-    pending: true,
+    link: '/case-studies/verifier-design/#alignerr',
+    label: 'Read the evaluation workflow',
+    pending: false,
   },
   {
     name: 'Toptal',
@@ -158,7 +158,7 @@ export function FreelanceExperience() {
       </div>
       <div className="evaluation-practice illustrated-evaluation">
         <div>
-          <span className="eyebrow">HOW I EVALUATE MODELS</span>
+          <span className="eyebrow">ALIGNERR / MODEL EVALUATION</span>
           <h3>Prompt. Compare. Follow through.</h3>
           <p>
             Design an open-ended engineering prompt, then compare two models’
@@ -166,8 +166,11 @@ export function FreelanceExperience() {
             rationales, and develop follow-up prompts that test whether each
             model can sustain progress over an extended session.
           </p>
-          <a className="text-link" href="/case-studies/verifier-design/">
-            Read the evaluation work overview <ArrowUpRight size={16} />
+          <a
+            className="text-link"
+            href="/case-studies/verifier-design/#alignerr"
+          >
+            Read the Alignerr workflow <ArrowUpRight size={16} />
           </a>
         </div>
         <Doodle kind="explainer" />

@@ -5,7 +5,7 @@ import { Doodle } from '@/components/portfolio/doodle';
 export const metadata = {
   title: 'Coding evaluation & task engineering',
   description:
-    'Selected freelance work in task authoring, reference solutions, comparative model evaluation and code-quality review.',
+    'Selected freelance work across G2i, Expertquery and Alignerr in task authoring, long-horizon model evaluation, reference solutions and code-quality review.',
 };
 export default function EvaluationOverview() {
   return (
@@ -20,9 +20,9 @@ export default function EvaluationOverview() {
             <div className="eyebrow">FREELANCE / EVALUATION ENGINEERING</div>
             <h1>Evidence behind the evaluation.</h1>
             <p>
-              Task design, reference solutions and careful review of
-              model-generated code. Selected engineering responsibilities across
-              G2i and Expertquery engagements.
+              Task design, reference solutions and careful review of model
+              outputs and execution trajectories. Selected engineering
+              responsibilities across G2i, Expertquery and Alignerr engagements.
             </p>
           </div>
           <Doodle kind="explainer" />
@@ -98,6 +98,33 @@ export default function EvaluationOverview() {
                 emerge.
               </li>
             </ul>
+          </article>
+          <article id="alignerr">
+            <span className="eyebrow">
+              ALIGNERR / LONG-HORIZON MODEL EVALUATION
+            </span>
+            <h2>Following two models through an extended build.</h2>
+            <p>
+              Start with an open-ended build prompt and evaluate how two models
+              carry the work forward. Author rubrics and rationales based on
+              their outputs and execution trajectories, then use follow-up
+              prompts to continue the task over an extended run.
+            </p>
+            <ol className="project-contributions">
+              <li>Write an initial build prompt and give it to both models.</li>
+              <li>
+                Review each model’s outputs and trajectory as it works through
+                the task.
+              </li>
+              <li>
+                Write evaluation rubrics and rationales grounded in the observed
+                outputs and trajectories.
+              </li>
+              <li>
+                Add follow-up prompts until either model exceeds 1M cumulative
+                tokens across its run, counted from the initial prompt.
+              </li>
+            </ol>
           </article>
         </section>
         <section className="project-contact">

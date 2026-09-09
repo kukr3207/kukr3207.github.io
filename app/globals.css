@@ -3250,6 +3250,7 @@ canvas:focus-visible {
   border: 1px solid var(--border);
   padding: 30px;
   background: #fff;
+  scroll-margin-top: 100px;
 }
 .freelance-work-list h2 {
   font-size: 1.75rem;
