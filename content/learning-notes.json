@@ -107,6 +107,140 @@
     "cover": "agentic-12.png",
     "series": "Agentic AI"
   },
+  "Agentic - 13.pdf": {
+    "title": "How AI Agents Do Deep Research",
+    "summary": "Explains how agents plan research, explore and compare sources, verify evidence, and synthesize a cited report.",
+    "topics": ["Deep research", "Research workflows", "Evidence and citations"],
+    "pages": 20,
+    "order": 13,
+    "lesson": 13,
+    "series": "Agentic AI",
+    "cover": "agentic-13.png"
+  },
+  "Agentic - 14.pdf": {
+    "title": "Can an AI Agent Check Its Own Work?",
+    "summary": "Introduces reflection and evaluator-optimizer loops that use clear criteria, feedback, and verification to improve agent outputs.",
+    "topics": ["Reflection", "Evaluator-optimizer loops", "Verification"],
+    "pages": 18,
+    "order": 14,
+    "lesson": 14,
+    "series": "Agentic AI",
+    "cover": "agentic-14.png"
+  },
+  "Agentic - 15.pdf": {
+    "title": "How Does an AI Agent Work for Hours, Days… or Weeks?",
+    "summary": "Explains how long-running agents preserve state, save checkpoints, and resume safely through interruptions and human approvals.",
+    "topics": ["Long-running agents", "Checkpoints", "Safe resumption"],
+    "pages": 18,
+    "order": 15,
+    "lesson": 15,
+    "series": "Agentic AI",
+    "cover": "agentic-15.png"
+  },
+  "Agentic - 16.pdf": {
+    "title": "How Do AI Agents Connect to So Many Apps?",
+    "summary": "Introduces MCP as a shared protocol for connecting AI applications to external tools and data through reusable clients and servers.",
+    "topics": [
+      "Model Context Protocol",
+      "Tool integrations",
+      "Clients and servers"
+    ],
+    "pages": 18,
+    "order": 16,
+    "lesson": 16,
+    "series": "Agentic AI",
+    "cover": "agentic-16.png"
+  },
+  "Agentic - 17.pdf": {
+    "title": "How Do AI Agents Talk to Each Other?",
+    "summary": "Introduces A2A as a shared protocol for independent agents to discover capabilities, delegate tasks, communicate, and return results.",
+    "topics": ["Agent2Agent", "Agent collaboration", "Task delegation"],
+    "pages": 18,
+    "order": 17,
+    "lesson": 17,
+    "series": "Agentic AI",
+    "cover": "agentic-17.png"
+  },
+  "Agentic - 18.pdf": {
+    "title": "How Do AI Agents Show You the Right Interface?",
+    "summary": "Explains how A2UI lets agents describe interactive interfaces that host applications render using their own components.",
+    "topics": ["A2UI", "Declarative interfaces", "Agent-generated UI"],
+    "pages": 18,
+    "order": 18,
+    "lesson": 18,
+    "series": "Agentic AI",
+    "cover": "agentic-18.png"
+  },
+  "Agentic - 19.pdf": {
+    "title": "How Does a Frontend Keep Up with an Agent While It Works?",
+    "summary": "Introduces AG-UI as the live communication layer for streaming agent events, synchronizing state, and exchanging tools and user input.",
+    "topics": ["AG-UI", "Event streaming", "State synchronization"],
+    "pages": 18,
+    "order": 19,
+    "lesson": 19,
+    "series": "Agentic AI",
+    "cover": "agentic-19.png"
+  },
+  "Agentic - 20.pdf": {
+    "title": "Why Can the Same Model Feel Like a Completely Different Agent?",
+    "summary": "Explains how an agent harness combines tools, state, runtime controls and tracing to turn a model into an operating agent.",
+    "topics": ["Agent harnesses", "State management", "Execution controls"],
+    "pages": 18,
+    "order": 20,
+    "lesson": 20,
+    "series": "Agentic AI",
+    "cover": "agentic-20.png"
+  },
+  "Agentic - 21.pdf": {
+    "title": "Your Agent Worked Once. Does That Mean It Works?",
+    "summary": "Introduces agent evaluations that use task contracts, repeated trials, traces and graders to measure outcomes, safety and cost.",
+    "topics": ["Agent evaluations", "Task contracts", "Reliability"],
+    "pages": 18,
+    "order": 21,
+    "lesson": 21,
+    "series": "Agentic AI",
+    "cover": "agentic-21.png"
+  },
+  "Agentic - 22.pdf": {
+    "title": "Why Does an Agent Forget Everything Next Time?",
+    "summary": "Explains how short-term and long-term memory retain selected information and retrieve it into context for future work.",
+    "topics": ["Agent memory", "Memory retrieval", "Memory governance"],
+    "pages": 18,
+    "order": 22,
+    "lesson": 22,
+    "series": "Agentic AI",
+    "cover": "agentic-22.png"
+  },
+  "Agentic - 23.pdf": {
+    "title": "Should an Agent Plan Before It Acts?",
+    "summary": "Shows when agents should plan, how to break goals into ordered actions, and when new evidence calls for replanning.",
+    "topics": ["Agent planning", "Task decomposition", "Adaptive execution"],
+    "pages": 18,
+    "order": 23,
+    "lesson": 23,
+    "series": "Agentic AI",
+    "cover": "agentic-23.png"
+  },
+  "Agentic - 24.pdf": {
+    "title": "What Happens Between the Goal and the Action?",
+    "summary": "Introduces ReAct, reflection and search as control loops for choosing actions, checking results and improving decisions.",
+    "topics": ["ReAct", "Reflection", "Reasoning patterns"],
+    "pages": 18,
+    "order": 24,
+    "lesson": 24,
+    "series": "Agentic AI",
+    "cover": "agentic-24.png"
+  },
+  "Agentic - 25.pdf": {
+    "title": "Why Does Agent Security Matter?",
+    "summary": "Examines prompt injection and tool-related risks, with trust boundaries, limited permissions, approvals and tracing to control agent actions.",
+    "topics": ["Prompt injection", "Agent permissions", "Trust boundaries"],
+    "pages": 18,
+    "order": 25,
+    "lesson": 25,
+    "series": "Agentic AI",
+    "cover": "agentic-25.png"
+  },
   "GenAI - 1.pdf": {
     "title": "What exactly IS Artificial Intelligence?",
     "summary": "An introduction to artificial intelligence that starts with the basic idea of what AI is.",

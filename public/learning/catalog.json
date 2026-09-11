@@ -860,6 +860,42 @@
       "updatedAt": "2026-09-09T04:40:30.507Z"
     },
     {
+      "id": "Agentic - 13.pdf",
+      "filename": "Agentic - 13.pdf",
+      "series": "Agentic AI",
+      "lesson": 13,
+      "title": "How AI Agents Do Deep Research",
+      "summary": "Explains how agents plan research, explore and compare sources, verify evidence, and synthesize a cited report.",
+      "topics": [
+        "Deep research",
+        "Research workflows",
+        "Evidence and citations"
+      ],
+      "pages": 20,
+      "order": 13,
+      "cover": "/learning/covers/agentic-13.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-13-f669808b6551-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-13-f669808b6551-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-13-f669808b6551-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2013.pdf",
+      "bytes": 1434206,
+      "updatedAt": "2026-09-09T04:07:23.152Z"
+    },
+    {
       "id": "GenAI - 13.pdf",
       "filename": "GenAI - 13.pdf",
       "series": "GenAI",
@@ -894,6 +930,42 @@
       "url": "/learning/GenAI%20-%2013.pdf",
       "bytes": 14028421,
       "updatedAt": "2026-09-09T04:40:30.512Z"
+    },
+    {
+      "id": "Agentic - 14.pdf",
+      "filename": "Agentic - 14.pdf",
+      "series": "Agentic AI",
+      "lesson": 14,
+      "title": "Can an AI Agent Check Its Own Work?",
+      "summary": "Introduces reflection and evaluator-optimizer loops that use clear criteria, feedback, and verification to improve agent outputs.",
+      "topics": [
+        "Reflection",
+        "Evaluator-optimizer loops",
+        "Verification"
+      ],
+      "pages": 18,
+      "order": 14,
+      "cover": "/learning/covers/agentic-14.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-14-0968f31919f2-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-14-0968f31919f2-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-14-0968f31919f2-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2014.pdf",
+      "bytes": 1257524,
+      "updatedAt": "2026-09-09T04:10:52.484Z"
     },
     {
       "id": "GenAI - 14.pdf",
@@ -932,6 +1004,42 @@
       "updatedAt": "2026-09-09T04:40:30.515Z"
     },
     {
+      "id": "Agentic - 15.pdf",
+      "filename": "Agentic - 15.pdf",
+      "series": "Agentic AI",
+      "lesson": 15,
+      "title": "How Does an AI Agent Work for Hours, Days… or Weeks?",
+      "summary": "Explains how long-running agents preserve state, save checkpoints, and resume safely through interruptions and human approvals.",
+      "topics": [
+        "Long-running agents",
+        "Checkpoints",
+        "Safe resumption"
+      ],
+      "pages": 18,
+      "order": 15,
+      "cover": "/learning/covers/agentic-15.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-15-2425c2dbec1a-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-15-2425c2dbec1a-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-15-2425c2dbec1a-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2015.pdf",
+      "bytes": 1214376,
+      "updatedAt": "2026-09-09T04:39:38.668Z"
+    },
+    {
       "id": "GenAI - 15.pdf",
       "filename": "GenAI - 15.pdf",
       "series": "GenAI",
@@ -966,6 +1074,42 @@
       "url": "/learning/GenAI%20-%2015.pdf",
       "bytes": 6818838,
       "updatedAt": "2026-09-09T04:40:30.518Z"
+    },
+    {
+      "id": "Agentic - 16.pdf",
+      "filename": "Agentic - 16.pdf",
+      "series": "Agentic AI",
+      "lesson": 16,
+      "title": "How Do AI Agents Connect to So Many Apps?",
+      "summary": "Introduces MCP as a shared protocol for connecting AI applications to external tools and data through reusable clients and servers.",
+      "topics": [
+        "Model Context Protocol",
+        "Tool integrations",
+        "Clients and servers"
+      ],
+      "pages": 18,
+      "order": 16,
+      "cover": "/learning/covers/agentic-16.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-16-aff4f49f422d-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-16-aff4f49f422d-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-16-aff4f49f422d-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2016.pdf",
+      "bytes": 1216019,
+      "updatedAt": "2026-09-09T05:22:16.389Z"
     },
     {
       "id": "GenAI - 16.pdf",
@@ -1004,6 +1148,42 @@
       "updatedAt": "2026-09-09T04:40:30.521Z"
     },
     {
+      "id": "Agentic - 17.pdf",
+      "filename": "Agentic - 17.pdf",
+      "series": "Agentic AI",
+      "lesson": 17,
+      "title": "How Do AI Agents Talk to Each Other?",
+      "summary": "Introduces A2A as a shared protocol for independent agents to discover capabilities, delegate tasks, communicate, and return results.",
+      "topics": [
+        "Agent2Agent",
+        "Agent collaboration",
+        "Task delegation"
+      ],
+      "pages": 18,
+      "order": 17,
+      "cover": "/learning/covers/agentic-17.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-17-4a725e8bc353-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-17-4a725e8bc353-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-17-4a725e8bc353-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2017.pdf",
+      "bytes": 1232041,
+      "updatedAt": "2026-09-09T09:30:57.086Z"
+    },
+    {
       "id": "GenAI - 17.pdf",
       "filename": "GenAI - 17.pdf",
       "series": "GenAI",
@@ -1038,6 +1218,42 @@
       "url": "/learning/GenAI%20-%2017.pdf",
       "bytes": 10409168,
       "updatedAt": "2026-09-09T04:40:30.526Z"
+    },
+    {
+      "id": "Agentic - 18.pdf",
+      "filename": "Agentic - 18.pdf",
+      "series": "Agentic AI",
+      "lesson": 18,
+      "title": "How Do AI Agents Show You the Right Interface?",
+      "summary": "Explains how A2UI lets agents describe interactive interfaces that host applications render using their own components.",
+      "topics": [
+        "A2UI",
+        "Declarative interfaces",
+        "Agent-generated UI"
+      ],
+      "pages": 18,
+      "order": 18,
+      "cover": "/learning/covers/agentic-18.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-18-a24b6ab53dc9-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-18-a24b6ab53dc9-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-18-a24b6ab53dc9-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2018.pdf",
+      "bytes": 2475399,
+      "updatedAt": "2026-09-09T09:54:46.227Z"
     },
     {
       "id": "GenAI - 18.pdf",
@@ -1076,6 +1292,42 @@
       "updatedAt": "2026-09-09T04:40:30.529Z"
     },
     {
+      "id": "Agentic - 19.pdf",
+      "filename": "Agentic - 19.pdf",
+      "series": "Agentic AI",
+      "lesson": 19,
+      "title": "How Does a Frontend Keep Up with an Agent While It Works?",
+      "summary": "Introduces AG-UI as the live communication layer for streaming agent events, synchronizing state, and exchanging tools and user input.",
+      "topics": [
+        "AG-UI",
+        "Event streaming",
+        "State synchronization"
+      ],
+      "pages": 18,
+      "order": 19,
+      "cover": "/learning/covers/agentic-19.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-19-cf4add6dfa2c-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-19-cf4add6dfa2c-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-19-cf4add6dfa2c-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2019.pdf",
+      "bytes": 2355402,
+      "updatedAt": "2026-09-09T10:00:45.220Z"
+    },
+    {
       "id": "GenAI - 19.pdf",
       "filename": "GenAI - 19.pdf",
       "series": "GenAI",
@@ -1110,6 +1362,42 @@
       "url": "/learning/GenAI%20-%2019.pdf",
       "bytes": 10786975,
       "updatedAt": "2026-09-09T04:40:30.533Z"
+    },
+    {
+      "id": "Agentic - 20.pdf",
+      "filename": "Agentic - 20.pdf",
+      "series": "Agentic AI",
+      "lesson": 20,
+      "title": "Why Can the Same Model Feel Like a Completely Different Agent?",
+      "summary": "Explains how an agent harness combines tools, state, runtime controls and tracing to turn a model into an operating agent.",
+      "topics": [
+        "Agent harnesses",
+        "State management",
+        "Execution controls"
+      ],
+      "pages": 18,
+      "order": 20,
+      "cover": "/learning/covers/agentic-20.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-20-fd6124e905b8-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-20-fd6124e905b8-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-20-fd6124e905b8-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2020.pdf",
+      "bytes": 2630706,
+      "updatedAt": "2026-09-09T10:06:52.148Z"
     },
     {
       "id": "GenAI - 20.pdf",
@@ -1148,6 +1436,42 @@
       "updatedAt": "2026-09-09T04:40:30.536Z"
     },
     {
+      "id": "Agentic - 21.pdf",
+      "filename": "Agentic - 21.pdf",
+      "series": "Agentic AI",
+      "lesson": 21,
+      "title": "Your Agent Worked Once. Does That Mean It Works?",
+      "summary": "Introduces agent evaluations that use task contracts, repeated trials, traces and graders to measure outcomes, safety and cost.",
+      "topics": [
+        "Agent evaluations",
+        "Task contracts",
+        "Reliability"
+      ],
+      "pages": 18,
+      "order": 21,
+      "cover": "/learning/covers/agentic-21.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-21-f6b2f3576583-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-21-f6b2f3576583-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-21-f6b2f3576583-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2021.pdf",
+      "bytes": 990203,
+      "updatedAt": "2026-09-11T06:59:18.415Z"
+    },
+    {
       "id": "GenAI - 21.pdf",
       "filename": "GenAI - 21.pdf",
       "series": "GenAI",
@@ -1182,6 +1506,42 @@
       "url": "/learning/GenAI%20-%2021.pdf",
       "bytes": 7313863,
       "updatedAt": "2026-09-09T04:40:30.541Z"
+    },
+    {
+      "id": "Agentic - 22.pdf",
+      "filename": "Agentic - 22.pdf",
+      "series": "Agentic AI",
+      "lesson": 22,
+      "title": "Why Does an Agent Forget Everything Next Time?",
+      "summary": "Explains how short-term and long-term memory retain selected information and retrieve it into context for future work.",
+      "topics": [
+        "Agent memory",
+        "Memory retrieval",
+        "Memory governance"
+      ],
+      "pages": 18,
+      "order": 22,
+      "cover": "/learning/covers/agentic-22.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-22-df3482af7990-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-22-df3482af7990-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-22-df3482af7990-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2022.pdf",
+      "bytes": 956102,
+      "updatedAt": "2026-09-11T07:02:34.254Z"
     },
     {
       "id": "GenAI - 22.pdf",
@@ -1220,6 +1580,42 @@
       "updatedAt": "2026-09-09T04:40:30.548Z"
     },
     {
+      "id": "Agentic - 23.pdf",
+      "filename": "Agentic - 23.pdf",
+      "series": "Agentic AI",
+      "lesson": 23,
+      "title": "Should an Agent Plan Before It Acts?",
+      "summary": "Shows when agents should plan, how to break goals into ordered actions, and when new evidence calls for replanning.",
+      "topics": [
+        "Agent planning",
+        "Task decomposition",
+        "Adaptive execution"
+      ],
+      "pages": 18,
+      "order": 23,
+      "cover": "/learning/covers/agentic-23.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-23-f3e39c612e01-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-23-f3e39c612e01-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-23-f3e39c612e01-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2023.pdf",
+      "bytes": 932407,
+      "updatedAt": "2026-09-11T07:07:30.246Z"
+    },
+    {
       "id": "GenAI - 23.pdf",
       "filename": "GenAI - 23.pdf",
       "series": "GenAI",
@@ -1256,6 +1652,42 @@
       "updatedAt": "2026-09-09T04:40:30.555Z"
     },
     {
+      "id": "Agentic - 24.pdf",
+      "filename": "Agentic - 24.pdf",
+      "series": "Agentic AI",
+      "lesson": 24,
+      "title": "What Happens Between the Goal and the Action?",
+      "summary": "Introduces ReAct, reflection and search as control loops for choosing actions, checking results and improving decisions.",
+      "topics": [
+        "ReAct",
+        "Reflection",
+        "Reasoning patterns"
+      ],
+      "pages": 18,
+      "order": 24,
+      "cover": "/learning/covers/agentic-24.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-24-06c3925ab21c-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-24-06c3925ab21c-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-24-06c3925ab21c-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2024.pdf",
+      "bytes": 945054,
+      "updatedAt": "2026-09-11T07:11:45.736Z"
+    },
+    {
       "id": "GenAI - 24.pdf",
       "filename": "GenAI - 24.pdf",
       "series": "GenAI",
@@ -1290,6 +1722,42 @@
       "url": "/learning/GenAI%20-%2024.pdf",
       "bytes": 7990220,
       "updatedAt": "2026-09-09T04:40:30.562Z"
+    },
+    {
+      "id": "Agentic - 25.pdf",
+      "filename": "Agentic - 25.pdf",
+      "series": "Agentic AI",
+      "lesson": 25,
+      "title": "Why Does Agent Security Matter?",
+      "summary": "Examines prompt injection and tool-related risks, with trust boundaries, limited permissions, approvals and tracing to control agent actions.",
+      "topics": [
+        "Prompt injection",
+        "Agent permissions",
+        "Trust boundaries"
+      ],
+      "pages": 18,
+      "order": 25,
+      "cover": "/learning/covers/agentic-25.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/agentic-25-ad8fb73a64f4-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-25-ad8fb73a64f4-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/agentic-25-ad8fb73a64f4-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/Agentic%20-%2025.pdf",
+      "bytes": 917653,
+      "updatedAt": "2026-09-11T07:15:10.490Z"
     },
     {
       "id": "GenAI - 25.pdf",
