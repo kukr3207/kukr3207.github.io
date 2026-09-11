@@ -942,13 +942,14 @@ h2 {
 }
 .learning-series-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 22px;
 }
 .learning-series-card {
   display: flex;
+  flex-direction: column;
   gap: 24px;
-  align-items: center;
+  align-items: flex-start;
   padding: 28px;
   border: 1px solid #d9dfeb;
   border-radius: 7px;
@@ -962,6 +963,10 @@ h2 {
 .learning-series-card[data-series='GenAI'] {
   background: #f1f5e9;
   border-color: #d9e1cb;
+}
+.learning-series-card[data-series='System Design'] {
+  background: #f0f7fa;
+  border-color: #ccdde5;
 }
 .learning-series-card:hover,
 .learning-series-card[aria-pressed='true'] {
@@ -1138,6 +1143,8 @@ h2 {
     gap: 16px;
   }
   .learning-series-card {
+    flex-direction: row;
+    align-items: center;
     gap: 22px;
   }
   .learning-series-cover {

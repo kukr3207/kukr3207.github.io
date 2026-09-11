@@ -544,5 +544,49 @@
     "lesson": 30,
     "pages": 7,
     "cover": "genai-30.png"
+  },
+  "System Design - 1.pdf": {
+    "title": "What Is AI System Design?",
+    "summary": "Learn how data, models, tools, and application logic work together to turn an AI model into a useful, reliable product.",
+    "topics": [
+      "AI product architecture",
+      "Request lifecycle",
+      "Tool selection"
+    ],
+    "pages": 18,
+    "order": 1,
+    "lesson": 1,
+    "series": "System Design",
+    "cover": "system-design-1.png"
+  },
+  "System Design - 2.pdf": {
+    "title": "Before You Draw Boxes, Define Success",
+    "summary": "Define the user’s job, system constraints, and measurable success criteria before writing a practical design brief for an AI policy assistant.",
+    "topics": ["Requirements", "Success metrics", "Design briefs"],
+    "pages": 18,
+    "order": 2,
+    "lesson": 2,
+    "series": "System Design",
+    "cover": "system-design-2.png"
+  },
+  "System Design - 3.pdf": {
+    "title": "Choose the Right System Shape",
+    "summary": "Compare rules, predictive models, retrieval workflows, and agents to choose an architecture that fits the required output and execution path.",
+    "topics": ["Architecture selection", "Retrieval workflows", "AI agents"],
+    "pages": 18,
+    "order": 3,
+    "lesson": 3,
+    "series": "System Design",
+    "cover": "system-design-3.png"
+  },
+  "System Design - 4.pdf": {
+    "title": "Two Paths. One Working System.",
+    "summary": "Trace how data preparation and serving connect in a policy assistant and demand forecast, including artifacts, tool responsibilities, and quality measures.",
+    "topics": ["Data preparation", "Request paths", "Model serving"],
+    "pages": 18,
+    "order": 4,
+    "lesson": 4,
+    "series": "System Design",
+    "cover": "system-design-4.png"
   }
 }

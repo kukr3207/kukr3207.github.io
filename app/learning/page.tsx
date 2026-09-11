@@ -3,9 +3,9 @@ import { LearningLibrary } from '@/components/portfolio/learning';
 
 export const dynamic = 'force-static';
 export const metadata = {
-  title: 'GenAI & Agentic AI learning library',
+  title: 'GenAI, Agentic AI & System Design learning library',
   description:
-    'Explore Uday Kondreddy’s GenAI and Agentic AI learning series: visual lessons on generative models, prompting, RAG, tools, memory and multi-agent systems.',
+    'Explore Uday Kondreddy’s GenAI, Agentic AI and System Design series through visual lessons, hand-drawn diagrams and practical examples.',
 };
 
 export default function LearningPage() {

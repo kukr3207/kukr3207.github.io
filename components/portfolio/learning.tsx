@@ -287,9 +287,8 @@ export function LearningPreview() {
         <div className="section-aside">
           <Doodle kind="reader" />
           <p>
-            I turn AI engineering concepts into visual lessons. Explore my
-            growing collection on generative AI, agents and the systems behind
-            them.
+            I turn engineering concepts into visual lessons. Explore my growing
+            collection on generative AI, agents and system design.
           </p>
         </div>
       </div>
@@ -347,14 +346,14 @@ export function LearningLibrary() {
           </a>
           <div className="eyebrow">LEARNING & CONTENT CREATION</div>
           <h1>
-            AI, made clear.
+            AI & systems, made clear.
             <br />
             <span className="hand">One idea at a time.</span>
           </h1>
           <p>
-            Visual lessons on generative AI and agentic systems. Start with the
-            fundamentals, explore a topic, or follow a series from the first
-            lesson.
+            Visual lessons on generative AI, agentic systems and system design.
+            Start with the fundamentals, explore a topic, or follow a series
+            from the first lesson.
           </p>
           <div className="learning-byline">
             <span className="learning-author-mark">u.</span>

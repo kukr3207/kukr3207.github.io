@@ -32,7 +32,7 @@ Open <http://127.0.0.1:4173/projects/>.
 
 ## Learning library
 
-The `/learning/` page presents separate GenAI and Agentic AI series. Each card includes its original cover and summary.
+The `/learning/` page presents separate GenAI, Agentic AI and System Design series. Each card includes its original cover and summary.
 Series cards and filters help readers choose a path. Search matches titles, summaries, topics and lesson numbers.
 Lesson numbers stay fixed when readers search or filter. All counts come from the files present.
 Select a cover, title or Read module button to open the reader popup. Close it with the × button or Escape.
@@ -44,12 +44,12 @@ The homepage includes a preview after the production projects. Counts come from 
 
 To add a module:
 
-1. Copy the PDF into `public/learning/`. Use a unique filename such as `GenAI - 31.pdf` or `Agentic - 13.pdf`.
+1. Copy the PDF into `public/learning/`. Use a unique filename such as `GenAI - 31.pdf`, `Agentic - 26.pdf` or `System Design - 5.pdf`.
 2. Run `pnpm run content:sync`, or keep `pnpm run content:watch` running while you add files.
 3. Open the learning page. An open page refreshes the collection within 30 seconds, or when you return to the tab.
 
 New PDFs appear without metadata. Their filenames become titles. Numbers in filenames set the default reading order.
-The `GenAI` and `Agentic` filename prefixes select the series automatically. Other files appear under Fieldnotes.
+The `GenAI`, `Agentic` and `System Design` filename prefixes select the series automatically. Other files appear under Fieldnotes.
 You can set `series` in the optional metadata to assign any series name, including a new series.
 Only PDFs directly inside `public/learning/` enter the collection. Subfolders and other files are ignored.
 When you remove a PDF, the next sync removes its card and preview copy.

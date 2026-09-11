@@ -73,6 +73,42 @@
       "updatedAt": "2026-09-09T04:40:30.464Z"
     },
     {
+      "id": "System Design - 1.pdf",
+      "filename": "System Design - 1.pdf",
+      "series": "System Design",
+      "lesson": 1,
+      "title": "What Is AI System Design?",
+      "summary": "Learn how data, models, tools, and application logic work together to turn an AI model into a useful, reliable product.",
+      "topics": [
+        "AI product architecture",
+        "Request lifecycle",
+        "Tool selection"
+      ],
+      "pages": 18,
+      "order": 1,
+      "cover": "/learning/covers/system-design-1.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-1-491f7cfba915-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-1-491f7cfba915-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-1-491f7cfba915-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%201.pdf",
+      "bytes": 39881853,
+      "updatedAt": "2026-09-09T10:07:59.221Z"
+    },
+    {
       "id": "Agentic - 2.pdf",
       "filename": "Agentic - 2.pdf",
       "series": "Agentic AI",
@@ -142,6 +178,42 @@
       "url": "/learning/GenAI%20-%202.pdf",
       "bytes": 8857066,
       "updatedAt": "2026-09-09T04:40:30.467Z"
+    },
+    {
+      "id": "System Design - 2.pdf",
+      "filename": "System Design - 2.pdf",
+      "series": "System Design",
+      "lesson": 2,
+      "title": "Before You Draw Boxes, Define Success",
+      "summary": "Define the user’s job, system constraints, and measurable success criteria before writing a practical design brief for an AI policy assistant.",
+      "topics": [
+        "Requirements",
+        "Success metrics",
+        "Design briefs"
+      ],
+      "pages": 18,
+      "order": 2,
+      "cover": "/learning/covers/system-design-2.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-2-d565077c4de3-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-2-d565077c4de3-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-2-d565077c4de3-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%202.pdf",
+      "bytes": 40269131,
+      "updatedAt": "2026-09-09T10:29:15.645Z"
     },
     {
       "id": "Agentic - 3.pdf",
@@ -216,6 +288,42 @@
       "updatedAt": "2026-09-09T04:40:30.471Z"
     },
     {
+      "id": "System Design - 3.pdf",
+      "filename": "System Design - 3.pdf",
+      "series": "System Design",
+      "lesson": 3,
+      "title": "Choose the Right System Shape",
+      "summary": "Compare rules, predictive models, retrieval workflows, and agents to choose an architecture that fits the required output and execution path.",
+      "topics": [
+        "Architecture selection",
+        "Retrieval workflows",
+        "AI agents"
+      ],
+      "pages": 18,
+      "order": 3,
+      "cover": "/learning/covers/system-design-3.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-3-7e6bcd2db02d-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-3-7e6bcd2db02d-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-3-7e6bcd2db02d-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%203.pdf",
+      "bytes": 41326658,
+      "updatedAt": "2026-09-09T11:19:37.077Z"
+    },
+    {
       "id": "Agentic - 4.pdf",
       "filename": "Agentic - 4.pdf",
       "series": "Agentic AI",
@@ -286,6 +394,42 @@
       "url": "/learning/GenAI%20-%204.pdf",
       "bytes": 6946324,
       "updatedAt": "2026-09-09T04:40:30.475Z"
+    },
+    {
+      "id": "System Design - 4.pdf",
+      "filename": "System Design - 4.pdf",
+      "series": "System Design",
+      "lesson": 4,
+      "title": "Two Paths. One Working System.",
+      "summary": "Trace how data preparation and serving connect in a policy assistant and demand forecast, including artifacts, tool responsibilities, and quality measures.",
+      "topics": [
+        "Data preparation",
+        "Request paths",
+        "Model serving"
+      ],
+      "pages": 18,
+      "order": 4,
+      "cover": "/learning/covers/system-design-4.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-4-a7b8997046c6-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-4-a7b8997046c6-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-4-a7b8997046c6-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%204.pdf",
+      "bytes": 41136432,
+      "updatedAt": "2026-09-11T07:14:19.912Z"
     },
     {
       "id": "Agentic - 5.pdf",

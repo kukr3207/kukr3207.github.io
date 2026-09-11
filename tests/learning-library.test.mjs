@@ -88,6 +88,7 @@ test('assigns series and stable lesson numbers for new PDFs without requiring me
   for (const name of [
     'GenAI - 31.pdf',
     'Agentic - 13.pdf',
+    'System Design - 5.pdf',
     'New notes.pdf',
     'Custom - 9.pdf',
   ])
@@ -104,6 +105,8 @@ test('assigns series and stable lesson numbers for new PDFs without requiring me
   assert.equal(byName['GenAI - 31.pdf'].lesson, 31);
   assert.equal(byName['Agentic - 13.pdf'].series, 'Agentic AI');
   assert.equal(byName['Agentic - 13.pdf'].lesson, 13);
+  assert.equal(byName['System Design - 5.pdf'].series, 'System Design');
+  assert.equal(byName['System Design - 5.pdf'].lesson, 5);
   assert.equal(byName['New notes.pdf'].series, 'Fieldnotes');
   assert.equal(byName['New notes.pdf'].lesson, null);
   assert.equal(byName['Custom - 9.pdf'].series, 'ML Systems');

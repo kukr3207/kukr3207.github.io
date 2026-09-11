@@ -17,7 +17,11 @@ export type LearningDocument = {
 
 export type LearningSeries = { name: string; documents: LearningDocument[] };
 
-const seriesPriority: Record<string, number> = { GenAI: 0, 'Agentic AI': 1 };
+const seriesPriority: Record<string, number> = {
+  GenAI: 0,
+  'Agentic AI': 1,
+  'System Design': 2,
+};
 export function groupLearningDocuments(
   documents: LearningDocument[],
   series: string | null = null,
@@ -45,7 +49,7 @@ export function groupLearningDocuments(
     }))
     .sort(
       (a, b) =>
-        (seriesPriority[a.name] ?? 2) - (seriesPriority[b.name] ?? 2) ||
+        (seriesPriority[a.name] ?? 3) - (seriesPriority[b.name] ?? 3) ||
         a.name.localeCompare(b.name),
     );
 }
@@ -55,6 +59,8 @@ export function seriesDescription(name: string) {
     return 'Start with AI fundamentals. Explore generative models, prompting, embeddings, RAG and practical applications.';
   if (name === 'Agentic AI')
     return 'Explore agent loops, planning, tools, memory and the design of systems that work toward a goal.';
+  if (name === 'System Design')
+    return 'Turn AI models into useful products. Define success, choose an architecture and connect data preparation with serving.';
   return 'More visual lessons from my AI engineering fieldnotes.';
 }
 

@@ -56,7 +56,9 @@ export async function buildLearningCatalog(root = projectRoot) {
         ? 'GenAI'
         : /^agentic\b/i.test(file.name)
           ? 'Agentic AI'
-          : 'Fieldnotes';
+          : /^system[\s_-]+design\b/i.test(file.name)
+            ? 'System Design'
+            : 'Fieldnotes';
       let cover = null;
       let coverVariants = [];
       const coverFile = plainText(note.cover);
