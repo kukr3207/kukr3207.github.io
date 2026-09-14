@@ -503,6 +503,42 @@
       "updatedAt": "2026-09-09T04:40:30.478Z"
     },
     {
+      "id": "System Design - 5.pdf",
+      "filename": "System Design - 5.pdf",
+      "series": "System Design",
+      "lesson": 5,
+      "title": "Who Can Ask for What?",
+      "summary": "Design API contracts that validate requests, establish identity, and enforce permissions before protected data reaches the model.",
+      "topics": [
+        "API contracts",
+        "Authentication",
+        "Authorization"
+      ],
+      "pages": 18,
+      "order": 5,
+      "cover": "/learning/covers/system-design-5.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-5-c2613e523c0a-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-5-c2613e523c0a-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-5-c2613e523c0a-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%205.pdf",
+      "bytes": 11091116,
+      "updatedAt": "2026-09-14T15:25:10.830Z"
+    },
+    {
       "id": "Agentic - 6.pdf",
       "filename": "Agentic - 6.pdf",
       "series": "Agentic AI",
@@ -574,6 +610,42 @@
       "updatedAt": "2026-09-09T04:40:30.482Z"
     },
     {
+      "id": "System Design - 6.pdf",
+      "filename": "System Design - 6.pdf",
+      "series": "System Design",
+      "lesson": 6,
+      "title": "What Counts as a Successful Result?",
+      "summary": "Turn AI requirements into realistic test cases, scoring rules, and explicit release criteria.",
+      "topics": [
+        "Evaluation contracts",
+        "Test cases",
+        "Release criteria"
+      ],
+      "pages": 18,
+      "order": 6,
+      "cover": "/learning/covers/system-design-6.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-6-1a70075794de-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-6-1a70075794de-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-6-1a70075794de-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%206.pdf",
+      "bytes": 10662246,
+      "updatedAt": "2026-09-14T15:25:42.139Z"
+    },
+    {
       "id": "Agentic - 7.pdf",
       "filename": "Agentic - 7.pdf",
       "series": "Agentic AI",
@@ -643,6 +715,42 @@
       "url": "/learning/GenAI%20-%207.pdf",
       "bytes": 7479267,
       "updatedAt": "2026-09-09T04:40:30.485Z"
+    },
+    {
+      "id": "System Design - 7.pdf",
+      "filename": "System Design - 7.pdf",
+      "series": "System Design",
+      "lesson": 7,
+      "title": "What Exactly Are We Predicting?",
+      "summary": "Define the customer population, prediction moment, observation window, and outcome that make a precise training example.",
+      "topics": [
+        "Label definitions",
+        "Observation windows",
+        "Prediction timing"
+      ],
+      "pages": 18,
+      "order": 7,
+      "cover": "/learning/covers/system-design-7.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-7-94c572accc1c-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-7-94c572accc1c-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-7-94c572accc1c-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%207.pdf",
+      "bytes": 10450089,
+      "updatedAt": "2026-09-14T15:25:42.046Z"
     },
     {
       "id": "Agentic - 8.pdf",
@@ -717,6 +825,42 @@
       "updatedAt": "2026-09-09T04:40:30.489Z"
     },
     {
+      "id": "System Design - 8.pdf",
+      "filename": "System Design - 8.pdf",
+      "series": "System Design",
+      "lesson": 8,
+      "title": "Is the Data Fit for This Job?",
+      "summary": "Create data contracts that check schemas, missing values, duplicates, and freshness, with clear responses when checks fail.",
+      "topics": [
+        "Data quality",
+        "Data contracts",
+        "Validation"
+      ],
+      "pages": 18,
+      "order": 8,
+      "cover": "/learning/covers/system-design-8.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-8-d749aee7fbd3-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-8-d749aee7fbd3-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-8-d749aee7fbd3-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%208.pdf",
+      "bytes": 10349088,
+      "updatedAt": "2026-09-14T15:25:46.865Z"
+    },
+    {
       "id": "Agentic - 9.pdf",
       "filename": "Agentic - 9.pdf",
       "series": "Agentic AI",
@@ -786,6 +930,42 @@
       "url": "/learning/GenAI%20-%209.pdf",
       "bytes": 6325766,
       "updatedAt": "2026-09-09T04:40:30.492Z"
+    },
+    {
+      "id": "System Design - 9.pdf",
+      "filename": "System Design - 9.pdf",
+      "series": "System Design",
+      "lesson": 9,
+      "title": "Can Your Model See the Future?",
+      "summary": "Design training and evaluation splits that respect time, entity boundaries, and the information available when predictions are made.",
+      "topics": [
+        "Data leakage",
+        "Temporal splits",
+        "Group splits"
+      ],
+      "pages": 18,
+      "order": 9,
+      "cover": "/learning/covers/system-design-9.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-9-7873b8bc8030-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-9-7873b8bc8030-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-9-7873b8bc8030-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%209.pdf",
+      "bytes": 10448920,
+      "updatedAt": "2026-09-14T15:25:53.094Z"
     },
     {
       "id": "Agentic - 10.pdf",
@@ -860,6 +1040,42 @@
       "updatedAt": "2026-09-09T04:40:30.495Z"
     },
     {
+      "id": "System Design - 10.pdf",
+      "filename": "System Design - 10.pdf",
+      "series": "System Design",
+      "lesson": 10,
+      "title": "Same Feature Name. Same Meaning?",
+      "summary": "Define and version reproducible features so training and serving use consistent meanings, time windows, and available data.",
+      "topics": [
+        "Feature contracts",
+        "Point-in-time correctness",
+        "Feature versioning"
+      ],
+      "pages": 18,
+      "order": 10,
+      "cover": "/learning/covers/system-design-10.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-10-f85fb0889855-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-10-f85fb0889855-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-10-f85fb0889855-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2010.pdf",
+      "bytes": 9716319,
+      "updatedAt": "2026-09-14T15:25:53.093Z"
+    },
+    {
       "id": "Agentic - 11.pdf",
       "filename": "Agentic - 11.pdf",
       "series": "Agentic AI",
@@ -930,6 +1146,42 @@
       "url": "/learning/GenAI%20-%2011.pdf",
       "bytes": 8118242,
       "updatedAt": "2026-09-09T04:40:30.498Z"
+    },
+    {
+      "id": "System Design - 11.pdf",
+      "filename": "System Design - 11.pdf",
+      "series": "System Design",
+      "lesson": 11,
+      "title": "A Score Still Needs a Decision",
+      "summary": "Compare a learned model with a baseline and choose thresholds using precision, recall, error costs, and review capacity.",
+      "topics": [
+        "Baselines",
+        "Decision thresholds",
+        "Review capacity"
+      ],
+      "pages": 18,
+      "order": 11,
+      "cover": "/learning/covers/system-design-11.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-11-e8787803c857-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-11-e8787803c857-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-11-e8787803c857-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2011.pdf",
+      "bytes": 9925511,
+      "updatedAt": "2026-09-14T15:25:58.246Z"
     },
     {
       "id": "Agentic - 12 (1).pdf",
@@ -1004,6 +1256,42 @@
       "updatedAt": "2026-09-09T04:40:30.507Z"
     },
     {
+      "id": "System Design - 12.pdf",
+      "filename": "System Design - 12.pdf",
+      "series": "System Design",
+      "lesson": 12,
+      "title": "Can You Reconstruct Yesterday's Model?",
+      "summary": "Connect retained data, experiment runs, fitted artifacts, and decision policies in an inspectable release manifest.",
+      "topics": [
+        "Experiment tracking",
+        "Model artifacts",
+        "Release manifests"
+      ],
+      "pages": 18,
+      "order": 12,
+      "cover": "/learning/covers/system-design-12.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-12-96ba8ea3f544-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-12-96ba8ea3f544-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-12-96ba8ea3f544-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2012.pdf",
+      "bytes": 9841636,
+      "updatedAt": "2026-09-14T15:26:04.644Z"
+    },
+    {
       "id": "Agentic - 13.pdf",
       "filename": "Agentic - 13.pdf",
       "series": "Agentic AI",
@@ -1074,6 +1362,42 @@
       "url": "/learning/GenAI%20-%2013.pdf",
       "bytes": 14028421,
       "updatedAt": "2026-09-09T04:40:30.512Z"
+    },
+    {
+      "id": "System Design - 13.pdf",
+      "filename": "System Design - 13.pdf",
+      "series": "System Design",
+      "lesson": 13,
+      "title": "Score a Whole Cohort Without Exposing Half a Result",
+      "summary": "Design batch inference with pinned inputs, stable partitions, safe retries, complete validation, and atomic publication.",
+      "topics": [
+        "Batch inference",
+        "Idempotent retries",
+        "Atomic publication"
+      ],
+      "pages": 18,
+      "order": 13,
+      "cover": "/learning/covers/system-design-13.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-13-a56f39d8dcbc-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-13-a56f39d8dcbc-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-13-a56f39d8dcbc-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2013.pdf",
+      "bytes": 9777876,
+      "updatedAt": "2026-09-14T15:26:05.017Z"
     },
     {
       "id": "Agentic - 14.pdf",
@@ -1148,6 +1472,42 @@
       "updatedAt": "2026-09-09T04:40:30.515Z"
     },
     {
+      "id": "System Design - 14.pdf",
+      "filename": "System Design - 14.pdf",
+      "series": "System Design",
+      "lesson": 14,
+      "title": "The User Is Waiting for the Prediction",
+      "summary": "Design an online prediction service with valid features, bounded latency, capacity limits, and fallback behavior.",
+      "topics": [
+        "Online inference",
+        "Latency budgets",
+        "Fallbacks"
+      ],
+      "pages": 18,
+      "order": 14,
+      "cover": "/learning/covers/system-design-14.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-14-150f34e13650-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-14-150f34e13650-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-14-150f34e13650-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2014.pdf",
+      "bytes": 9583555,
+      "updatedAt": "2026-09-14T15:26:09.438Z"
+    },
+    {
       "id": "Agentic - 15.pdf",
       "filename": "Agentic - 15.pdf",
       "series": "Agentic AI",
@@ -1218,6 +1578,42 @@
       "url": "/learning/GenAI%20-%2015.pdf",
       "bytes": 6818838,
       "updatedAt": "2026-09-09T04:40:30.518Z"
+    },
+    {
+      "id": "System Design - 15.pdf",
+      "filename": "System Design - 15.pdf",
+      "series": "System Design",
+      "lesson": 15,
+      "title": "Do You Actually Need a Feature Store?",
+      "summary": "Choose feature infrastructure from reuse, historical retrieval, freshness, and operational ownership requirements.",
+      "topics": [
+        "Feature stores",
+        "Historical features",
+        "Feature freshness"
+      ],
+      "pages": 18,
+      "order": 15,
+      "cover": "/learning/covers/system-design-15.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-15-2017aa69e089-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-15-2017aa69e089-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-15-2017aa69e089-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2015.pdf",
+      "bytes": 9612384,
+      "updatedAt": "2026-09-14T15:26:16.350Z"
     },
     {
       "id": "Agentic - 16.pdf",
@@ -1292,6 +1688,42 @@
       "updatedAt": "2026-09-09T04:40:30.521Z"
     },
     {
+      "id": "System Design - 16.pdf",
+      "filename": "System Design - 16.pdf",
+      "series": "System Design",
+      "lesson": 16,
+      "title": "A Changing Input Is a Clue",
+      "summary": "Distinguish data drift from model quality changes and design alerts around delayed outcomes and label coverage.",
+      "topics": [
+        "Drift monitoring",
+        "Delayed labels",
+        "Quality alerts"
+      ],
+      "pages": 18,
+      "order": 16,
+      "cover": "/learning/covers/system-design-16.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-16-d626f8d32fad-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-16-d626f8d32fad-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-16-d626f8d32fad-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2016.pdf",
+      "bytes": 9924428,
+      "updatedAt": "2026-09-14T15:26:16.969Z"
+    },
+    {
       "id": "Agentic - 17.pdf",
       "filename": "Agentic - 17.pdf",
       "series": "Agentic AI",
@@ -1362,6 +1794,42 @@
       "url": "/learning/GenAI%20-%2017.pdf",
       "bytes": 10409168,
       "updatedAt": "2026-09-09T04:40:30.526Z"
+    },
+    {
+      "id": "System Design - 17.pdf",
+      "filename": "System Design - 17.pdf",
+      "series": "System Design",
+      "lesson": 17,
+      "title": "Find Candidates. Then Order Them.",
+      "summary": "Design recommendation retrieval and ranking, then evaluate relevance, availability, coverage, and latency at each stage.",
+      "topics": [
+        "Candidate retrieval",
+        "Ranking",
+        "Recommendation evaluation"
+      ],
+      "pages": 18,
+      "order": 17,
+      "cover": "/learning/covers/system-design-17.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-17-8e75c290c79a-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-17-8e75c290c79a-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-17-8e75c290c79a-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2017.pdf",
+      "bytes": 9684323,
+      "updatedAt": "2026-09-14T15:26:21.650Z"
     },
     {
       "id": "Agentic - 18.pdf",
@@ -1436,6 +1904,42 @@
       "updatedAt": "2026-09-09T04:40:30.529Z"
     },
     {
+      "id": "System Design - 18.pdf",
+      "filename": "System Design - 18.pdf",
+      "series": "System Design",
+      "lesson": 18,
+      "title": "Connect the Whole ML Service",
+      "summary": "Connect data, features, training, release, serving, and monitoring through explicit contracts and recovery paths.",
+      "topics": [
+        "ML architecture",
+        "Serving contracts",
+        "Release and recovery"
+      ],
+      "pages": 18,
+      "order": 18,
+      "cover": "/learning/covers/system-design-18.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-18-87a78c11edf8-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-18-87a78c11edf8-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-18-87a78c11edf8-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2018.pdf",
+      "bytes": 9868355,
+      "updatedAt": "2026-09-14T15:26:28.976Z"
+    },
+    {
       "id": "Agentic - 19.pdf",
       "filename": "Agentic - 19.pdf",
       "series": "Agentic AI",
@@ -1506,6 +2010,42 @@
       "url": "/learning/GenAI%20-%2019.pdf",
       "bytes": 10786975,
       "updatedAt": "2026-09-09T04:40:30.533Z"
+    },
+    {
+      "id": "System Design - 19.pdf",
+      "filename": "System Design - 19.pdf",
+      "series": "System Design",
+      "lesson": 19,
+      "title": "A Prompt Is an Interface",
+      "summary": "Build and version a prompt contract with distinct instructions, request data, evidence, output rules, and evaluation cases.",
+      "topics": [
+        "Prompt contracts",
+        "Versioning",
+        "Prompt evaluation"
+      ],
+      "pages": 18,
+      "order": 19,
+      "cover": "/learning/covers/system-design-19.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-19-a150f1102cc7-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-19-a150f1102cc7-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-19-a150f1102cc7-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2019.pdf",
+      "bytes": 9907737,
+      "updatedAt": "2026-09-14T15:26:29.922Z"
     },
     {
       "id": "Agentic - 20.pdf",
@@ -1580,6 +2120,42 @@
       "updatedAt": "2026-09-09T04:40:30.536Z"
     },
     {
+      "id": "System Design - 20.pdf",
+      "filename": "System Design - 20.pdf",
+      "series": "System Design",
+      "lesson": 20,
+      "title": "Valid JSON Is Only the Start",
+      "summary": "Route structured model outputs through completion, refusal, schema, meaning, and authorization checks.",
+      "topics": [
+        "Structured outputs",
+        "Schema validation",
+        "Output handling"
+      ],
+      "pages": 18,
+      "order": 20,
+      "cover": "/learning/covers/system-design-20.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-20-1b555458721f-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-20-1b555458721f-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-20-1b555458721f-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2020.pdf",
+      "bytes": 9780564,
+      "updatedAt": "2026-09-14T15:26:34.475Z"
+    },
+    {
       "id": "Agentic - 21.pdf",
       "filename": "Agentic - 21.pdf",
       "series": "Agentic AI",
@@ -1650,6 +2226,42 @@
       "url": "/learning/GenAI%20-%2021.pdf",
       "bytes": 7313863,
       "updatedAt": "2026-09-09T04:40:30.541Z"
+    },
+    {
+      "id": "System Design - 21.pdf",
+      "filename": "System Design - 21.pdf",
+      "series": "System Design",
+      "lesson": 21,
+      "title": "Which Model Fits This Job?",
+      "summary": "Compare model candidates on shared task cases using eligibility gates, quality, latency, cost, and uncertainty.",
+      "topics": [
+        "Model selection",
+        "Task scorecards",
+        "Evaluation tradeoffs"
+      ],
+      "pages": 18,
+      "order": 21,
+      "cover": "/learning/covers/system-design-21.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-21-a2c315682e57-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-21-a2c315682e57-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-21-a2c315682e57-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2021.pdf",
+      "bytes": 9801679,
+      "updatedAt": "2026-09-14T15:26:41.686Z"
     },
     {
       "id": "Agentic - 22.pdf",
@@ -1724,6 +2336,42 @@
       "updatedAt": "2026-09-09T04:40:30.548Z"
     },
     {
+      "id": "System Design - 22.pdf",
+      "filename": "System Design - 22.pdf",
+      "series": "System Design",
+      "lesson": 22,
+      "title": "Fix the Cause of the Error",
+      "summary": "Diagnose model failures and choose prompting, retrieval, or fine-tuning with a testable baseline.",
+      "topics": [
+        "Prompting",
+        "Retrieval",
+        "Fine-tuning"
+      ],
+      "pages": 18,
+      "order": 22,
+      "cover": "/learning/covers/system-design-22.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-22-8f375e07e8be-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-22-8f375e07e8be-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-22-8f375e07e8be-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2022.pdf",
+      "bytes": 9891131,
+      "updatedAt": "2026-09-14T15:26:42.821Z"
+    },
+    {
       "id": "Agentic - 23.pdf",
       "filename": "Agentic - 23.pdf",
       "series": "Agentic AI",
@@ -1794,6 +2442,42 @@
       "url": "/learning/GenAI%20-%2023.pdf",
       "bytes": 10508937,
       "updatedAt": "2026-09-09T04:40:30.555Z"
+    },
+    {
+      "id": "System Design - 23.pdf",
+      "filename": "System Design - 23.pdf",
+      "series": "System Design",
+      "lesson": 23,
+      "title": "More Context Is Not a Plan",
+      "summary": "Design a context budget that preserves essential evidence, manages conversation history, and handles overflow deliberately.",
+      "topics": [
+        "Context budgets",
+        "Conversation history",
+        "Evidence retention"
+      ],
+      "pages": 18,
+      "order": 23,
+      "cover": "/learning/covers/system-design-23.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-23-905a6d6f72e9-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-23-905a6d6f72e9-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-23-905a6d6f72e9-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2023.pdf",
+      "bytes": 9998548,
+      "updatedAt": "2026-09-14T15:26:47.662Z"
     },
     {
       "id": "Agentic - 24.pdf",
@@ -1868,6 +2552,42 @@
       "updatedAt": "2026-09-09T04:40:30.562Z"
     },
     {
+      "id": "System Design - 24.pdf",
+      "filename": "System Design - 24.pdf",
+      "series": "System Design",
+      "lesson": 24,
+      "title": "The First Word Is Not Done",
+      "summary": "Design streaming responses with clear completion states, separate latency measures, cancellation, and validation of finished output.",
+      "topics": [
+        "Streaming",
+        "Cancellation",
+        "Output validation"
+      ],
+      "pages": 18,
+      "order": 24,
+      "cover": "/learning/covers/system-design-24.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-24-f35c039ab642-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-24-f35c039ab642-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-24-f35c039ab642-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2024.pdf",
+      "bytes": 9618555,
+      "updatedAt": "2026-09-14T15:26:54.463Z"
+    },
+    {
       "id": "Agentic - 25.pdf",
       "filename": "Agentic - 25.pdf",
       "series": "Agentic AI",
@@ -1940,6 +2660,42 @@
       "updatedAt": "2026-09-09T04:40:30.569Z"
     },
     {
+      "id": "System Design - 25.pdf",
+      "filename": "System Design - 25.pdf",
+      "series": "System Design",
+      "lesson": 25,
+      "title": "An Answer Starts at the Source",
+      "summary": "Build document ingestion that preserves source provenance, audits extraction quality, and tracks permissions and versions.",
+      "topics": [
+        "Document ingestion",
+        "Provenance",
+        "Extraction quality"
+      ],
+      "pages": 18,
+      "order": 25,
+      "cover": "/learning/covers/system-design-25.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-25-f4fcfe6dfc94-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-25-f4fcfe6dfc94-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-25-f4fcfe6dfc94-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2025.pdf",
+      "bytes": 9686674,
+      "updatedAt": "2026-09-14T15:26:55.710Z"
+    },
+    {
       "id": "GenAI - 26.pdf",
       "filename": "GenAI - 26.pdf",
       "series": "GenAI",
@@ -1974,6 +2730,42 @@
       "url": "/learning/GenAI%20-%2026.pdf",
       "bytes": 8286275,
       "updatedAt": "2026-09-09T04:40:30.578Z"
+    },
+    {
+      "id": "System Design - 26.pdf",
+      "filename": "System Design - 26.pdf",
+      "series": "System Design",
+      "lesson": 26,
+      "title": "Design Chunks and Metadata",
+      "summary": "Choose chunk boundaries and metadata that preserve meaning, source references, permissions, and document versions.",
+      "topics": [
+        "Chunking",
+        "Metadata",
+        "Context expansion"
+      ],
+      "pages": 18,
+      "order": 26,
+      "cover": "/learning/covers/system-design-26.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-26-60e05edeab9c-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-26-60e05edeab9c-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-26-60e05edeab9c-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2026.pdf",
+      "bytes": 9196197,
+      "updatedAt": "2026-09-14T15:27:00.086Z"
     },
     {
       "id": "GenAI - 27.pdf",
@@ -2012,6 +2804,42 @@
       "updatedAt": "2026-09-09T04:40:30.589Z"
     },
     {
+      "id": "System Design - 27.pdf",
+      "filename": "System Design - 27.pdf",
+      "series": "System Design",
+      "lesson": 27,
+      "title": "Build and Update the Index",
+      "summary": "Design a vector index with consistent embeddings, controlled version activation, reliable updates, and explicit deletion behavior.",
+      "topics": [
+        "Vector indexes",
+        "Embeddings",
+        "Version management"
+      ],
+      "pages": 18,
+      "order": 27,
+      "cover": "/learning/covers/system-design-27.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-27-96f93cce2dbb-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-27-96f93cce2dbb-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-27-96f93cce2dbb-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2027.pdf",
+      "bytes": 9238472,
+      "updatedAt": "2026-09-14T15:27:06.568Z"
+    },
+    {
       "id": "GenAI - 28.pdf",
       "filename": "GenAI - 28.pdf",
       "series": "GenAI",
@@ -2046,6 +2874,42 @@
       "url": "/learning/GenAI%20-%2028.pdf",
       "bytes": 6804443,
       "updatedAt": "2026-09-09T04:40:30.598Z"
+    },
+    {
+      "id": "System Design - 28.pdf",
+      "filename": "System Design - 28.pdf",
+      "series": "System Design",
+      "lesson": 28,
+      "title": "Retrieve and Rerank Evidence",
+      "summary": "Combine lexical and vector retrieval, rerank eligible evidence, and assemble context within separate candidate and token budgets.",
+      "topics": [
+        "Hybrid retrieval",
+        "Reranking",
+        "Context assembly"
+      ],
+      "pages": 18,
+      "order": 28,
+      "cover": "/learning/covers/system-design-28.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-28-dc0857fcac58-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-28-dc0857fcac58-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-28-dc0857fcac58-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2028.pdf",
+      "bytes": 9463398,
+      "updatedAt": "2026-09-14T15:27:07.971Z"
     },
     {
       "id": "GenAI - 29.pdf",
@@ -2084,6 +2948,42 @@
       "updatedAt": "2026-09-09T04:40:30.606Z"
     },
     {
+      "id": "System Design - 29.pdf",
+      "filename": "System Design - 29.pdf",
+      "series": "System Design",
+      "lesson": 29,
+      "title": "Enforce Access and Support Claims",
+      "summary": "Authorize evidence before generation, connect claims to supporting passages, and handle denied, missing, or conflicting sources.",
+      "topics": [
+        "Access control",
+        "Citations",
+        "Claim support"
+      ],
+      "pages": 18,
+      "order": 29,
+      "cover": "/learning/covers/system-design-29.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-29-554ac943b780-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-29-554ac943b780-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-29-554ac943b780-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2029.pdf",
+      "bytes": 9304399,
+      "updatedAt": "2026-09-14T15:27:11.952Z"
+    },
+    {
       "id": "GenAI - 30.pdf",
       "filename": "GenAI - 30.pdf",
       "series": "GenAI",
@@ -2118,6 +3018,42 @@
       "url": "/learning/GenAI%20-%2030.pdf",
       "bytes": 11134419,
       "updatedAt": "2026-09-09T04:40:30.615Z"
+    },
+    {
+      "id": "System Design - 30.pdf",
+      "filename": "System Design - 30.pdf",
+      "series": "System Design",
+      "lesson": 30,
+      "title": "Evaluate the Complete RAG Path",
+      "summary": "Diagnose failures across the RAG pipeline and compare controlled changes using retrieval, answer quality, access, latency, and cost measures.",
+      "topics": [
+        "RAG evaluation",
+        "Failure diagnosis",
+        "Controlled experiments"
+      ],
+      "pages": 18,
+      "order": 30,
+      "cover": "/learning/covers/system-design-30.png",
+      "coverVariants": [
+        {
+          "url": "/learning/covers/thumbnails/system-design-30-8d481ad1f06c-320.webp",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-30-8d481ad1f06c-640.webp",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "url": "/learning/covers/thumbnails/system-design-30-8d481ad1f06c-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "url": "/learning/System%20Design%20-%2030.pdf",
+      "bytes": 9518843,
+      "updatedAt": "2026-09-14T15:27:18.191Z"
     }
   ]
 }

@@ -38,7 +38,7 @@ Lesson numbers stay fixed when readers search or filter. All counts come from th
 Select a cover, title or Read module button to open the reader popup. Close it with the × button or Escape.
 The reader renders PDF pages inside the site, keeps keyboard focus within the popup and returns focus when you close it.
 Use the page selector or previous/next buttons to move through a document. Zoom from Fit width to 200%; wide pages scroll horizontally.
-You can download the original PDF from the card or reader. Pages render as you scroll to limit memory use.
+You can download the PDF from the card or reader. Pages render as you scroll to limit memory use.
 The build prepares PDF.js assets locally; the reader does not send documents to an external viewer.
 The homepage includes a preview after the production projects. Counts come from the PDF files in `public/learning/`.
 
@@ -73,8 +73,8 @@ For a title, summary, topics and page count, add an entry to `content/learning-n
 
 All fields are optional. If you add a cover, place the image in `public/learning/covers/`. Cards without a cover use a title panel.
 Builds, syncs and the watcher generate WebP thumbnails at up to 320, 640 and 960 pixels wide, without upscaling. Cards request the appropriate size for the screen.
-Replacing a cover generates new image URLs. Original images and PDFs are preserved. Generated thumbnails live in `public/learning/covers/thumbnails/`.
-The supplied covers preserve the `@learn.machinelearning` attribution. The original PDFs remain unchanged.
+Replacing a cover generates new image URLs. The build preserves the supplied PDFs and cover images. Generated thumbnails live in `public/learning/covers/thumbnails/`.
+The supplied covers preserve the `@learn.machinelearning` attribution. System Design lessons 5–30 use smaller web PDFs to keep the site within GitHub Pages' size limit. These copies retain every page and the original image dimensions, with JPEG compression at quality 94 and no chroma subsampling. The source PDFs remain untouched outside this repository.
 
 The watcher updates the local static preview and generated catalogs. It does not publish files to a hosted site.
 For a hosted update, commit the PDF and optional metadata, then deploy. Every build regenerates the collection automatically.

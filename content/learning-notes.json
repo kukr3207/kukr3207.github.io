@@ -588,5 +588,269 @@
     "lesson": 4,
     "series": "System Design",
     "cover": "system-design-4.png"
+  },
+  "System Design - 5.pdf": {
+    "title": "Who Can Ask for What?",
+    "summary": "Design API contracts that validate requests, establish identity, and enforce permissions before protected data reaches the model.",
+    "topics": ["API contracts", "Authentication", "Authorization"],
+    "pages": 18,
+    "order": 5,
+    "lesson": 5,
+    "series": "System Design",
+    "cover": "system-design-5.png"
+  },
+  "System Design - 6.pdf": {
+    "title": "What Counts as a Successful Result?",
+    "summary": "Turn AI requirements into realistic test cases, scoring rules, and explicit release criteria.",
+    "topics": ["Evaluation contracts", "Test cases", "Release criteria"],
+    "pages": 18,
+    "order": 6,
+    "lesson": 6,
+    "series": "System Design",
+    "cover": "system-design-6.png"
+  },
+  "System Design - 7.pdf": {
+    "title": "What Exactly Are We Predicting?",
+    "summary": "Define the customer population, prediction moment, observation window, and outcome that make a precise training example.",
+    "topics": ["Label definitions", "Observation windows", "Prediction timing"],
+    "pages": 18,
+    "order": 7,
+    "lesson": 7,
+    "series": "System Design",
+    "cover": "system-design-7.png"
+  },
+  "System Design - 8.pdf": {
+    "title": "Is the Data Fit for This Job?",
+    "summary": "Create data contracts that check schemas, missing values, duplicates, and freshness, with clear responses when checks fail.",
+    "topics": ["Data quality", "Data contracts", "Validation"],
+    "pages": 18,
+    "order": 8,
+    "lesson": 8,
+    "series": "System Design",
+    "cover": "system-design-8.png"
+  },
+  "System Design - 9.pdf": {
+    "title": "Can Your Model See the Future?",
+    "summary": "Design training and evaluation splits that respect time, entity boundaries, and the information available when predictions are made.",
+    "topics": ["Data leakage", "Temporal splits", "Group splits"],
+    "pages": 18,
+    "order": 9,
+    "lesson": 9,
+    "series": "System Design",
+    "cover": "system-design-9.png"
+  },
+  "System Design - 10.pdf": {
+    "title": "Same Feature Name. Same Meaning?",
+    "summary": "Define and version reproducible features so training and serving use consistent meanings, time windows, and available data.",
+    "topics": [
+      "Feature contracts",
+      "Point-in-time correctness",
+      "Feature versioning"
+    ],
+    "pages": 18,
+    "order": 10,
+    "lesson": 10,
+    "series": "System Design",
+    "cover": "system-design-10.png"
+  },
+  "System Design - 11.pdf": {
+    "title": "A Score Still Needs a Decision",
+    "summary": "Compare a learned model with a baseline and choose thresholds using precision, recall, error costs, and review capacity.",
+    "topics": ["Baselines", "Decision thresholds", "Review capacity"],
+    "pages": 18,
+    "order": 11,
+    "lesson": 11,
+    "series": "System Design",
+    "cover": "system-design-11.png"
+  },
+  "System Design - 12.pdf": {
+    "title": "Can You Reconstruct Yesterday's Model?",
+    "summary": "Connect retained data, experiment runs, fitted artifacts, and decision policies in an inspectable release manifest.",
+    "topics": ["Experiment tracking", "Model artifacts", "Release manifests"],
+    "pages": 18,
+    "order": 12,
+    "lesson": 12,
+    "series": "System Design",
+    "cover": "system-design-12.png"
+  },
+  "System Design - 13.pdf": {
+    "title": "Score a Whole Cohort Without Exposing Half a Result",
+    "summary": "Design batch inference with pinned inputs, stable partitions, safe retries, complete validation, and atomic publication.",
+    "topics": ["Batch inference", "Idempotent retries", "Atomic publication"],
+    "pages": 18,
+    "order": 13,
+    "lesson": 13,
+    "series": "System Design",
+    "cover": "system-design-13.png"
+  },
+  "System Design - 14.pdf": {
+    "title": "The User Is Waiting for the Prediction",
+    "summary": "Design an online prediction service with valid features, bounded latency, capacity limits, and fallback behavior.",
+    "topics": ["Online inference", "Latency budgets", "Fallbacks"],
+    "pages": 18,
+    "order": 14,
+    "lesson": 14,
+    "series": "System Design",
+    "cover": "system-design-14.png"
+  },
+  "System Design - 15.pdf": {
+    "title": "Do You Actually Need a Feature Store?",
+    "summary": "Choose feature infrastructure from reuse, historical retrieval, freshness, and operational ownership requirements.",
+    "topics": ["Feature stores", "Historical features", "Feature freshness"],
+    "pages": 18,
+    "order": 15,
+    "lesson": 15,
+    "series": "System Design",
+    "cover": "system-design-15.png"
+  },
+  "System Design - 16.pdf": {
+    "title": "A Changing Input Is a Clue",
+    "summary": "Distinguish data drift from model quality changes and design alerts around delayed outcomes and label coverage.",
+    "topics": ["Drift monitoring", "Delayed labels", "Quality alerts"],
+    "pages": 18,
+    "order": 16,
+    "lesson": 16,
+    "series": "System Design",
+    "cover": "system-design-16.png"
+  },
+  "System Design - 17.pdf": {
+    "title": "Find Candidates. Then Order Them.",
+    "summary": "Design recommendation retrieval and ranking, then evaluate relevance, availability, coverage, and latency at each stage.",
+    "topics": ["Candidate retrieval", "Ranking", "Recommendation evaluation"],
+    "pages": 18,
+    "order": 17,
+    "lesson": 17,
+    "series": "System Design",
+    "cover": "system-design-17.png"
+  },
+  "System Design - 18.pdf": {
+    "title": "Connect the Whole ML Service",
+    "summary": "Connect data, features, training, release, serving, and monitoring through explicit contracts and recovery paths.",
+    "topics": ["ML architecture", "Serving contracts", "Release and recovery"],
+    "pages": 18,
+    "order": 18,
+    "lesson": 18,
+    "series": "System Design",
+    "cover": "system-design-18.png"
+  },
+  "System Design - 19.pdf": {
+    "title": "A Prompt Is an Interface",
+    "summary": "Build and version a prompt contract with distinct instructions, request data, evidence, output rules, and evaluation cases.",
+    "topics": ["Prompt contracts", "Versioning", "Prompt evaluation"],
+    "pages": 18,
+    "order": 19,
+    "lesson": 19,
+    "series": "System Design",
+    "cover": "system-design-19.png"
+  },
+  "System Design - 20.pdf": {
+    "title": "Valid JSON Is Only the Start",
+    "summary": "Route structured model outputs through completion, refusal, schema, meaning, and authorization checks.",
+    "topics": ["Structured outputs", "Schema validation", "Output handling"],
+    "pages": 18,
+    "order": 20,
+    "lesson": 20,
+    "series": "System Design",
+    "cover": "system-design-20.png"
+  },
+  "System Design - 21.pdf": {
+    "title": "Which Model Fits This Job?",
+    "summary": "Compare model candidates on shared task cases using eligibility gates, quality, latency, cost, and uncertainty.",
+    "topics": ["Model selection", "Task scorecards", "Evaluation tradeoffs"],
+    "pages": 18,
+    "order": 21,
+    "lesson": 21,
+    "series": "System Design",
+    "cover": "system-design-21.png"
+  },
+  "System Design - 22.pdf": {
+    "title": "Fix the Cause of the Error",
+    "summary": "Diagnose model failures and choose prompting, retrieval, or fine-tuning with a testable baseline.",
+    "topics": ["Prompting", "Retrieval", "Fine-tuning"],
+    "pages": 18,
+    "order": 22,
+    "lesson": 22,
+    "series": "System Design",
+    "cover": "system-design-22.png"
+  },
+  "System Design - 23.pdf": {
+    "title": "More Context Is Not a Plan",
+    "summary": "Design a context budget that preserves essential evidence, manages conversation history, and handles overflow deliberately.",
+    "topics": ["Context budgets", "Conversation history", "Evidence retention"],
+    "pages": 18,
+    "order": 23,
+    "lesson": 23,
+    "series": "System Design",
+    "cover": "system-design-23.png"
+  },
+  "System Design - 24.pdf": {
+    "title": "The First Word Is Not Done",
+    "summary": "Design streaming responses with clear completion states, separate latency measures, cancellation, and validation of finished output.",
+    "topics": ["Streaming", "Cancellation", "Output validation"],
+    "pages": 18,
+    "order": 24,
+    "lesson": 24,
+    "series": "System Design",
+    "cover": "system-design-24.png"
+  },
+  "System Design - 25.pdf": {
+    "title": "An Answer Starts at the Source",
+    "summary": "Build document ingestion that preserves source provenance, audits extraction quality, and tracks permissions and versions.",
+    "topics": ["Document ingestion", "Provenance", "Extraction quality"],
+    "pages": 18,
+    "order": 25,
+    "lesson": 25,
+    "series": "System Design",
+    "cover": "system-design-25.png"
+  },
+  "System Design - 26.pdf": {
+    "title": "Design Chunks and Metadata",
+    "summary": "Choose chunk boundaries and metadata that preserve meaning, source references, permissions, and document versions.",
+    "topics": ["Chunking", "Metadata", "Context expansion"],
+    "pages": 18,
+    "order": 26,
+    "lesson": 26,
+    "series": "System Design",
+    "cover": "system-design-26.png"
+  },
+  "System Design - 27.pdf": {
+    "title": "Build and Update the Index",
+    "summary": "Design a vector index with consistent embeddings, controlled version activation, reliable updates, and explicit deletion behavior.",
+    "topics": ["Vector indexes", "Embeddings", "Version management"],
+    "pages": 18,
+    "order": 27,
+    "lesson": 27,
+    "series": "System Design",
+    "cover": "system-design-27.png"
+  },
+  "System Design - 28.pdf": {
+    "title": "Retrieve and Rerank Evidence",
+    "summary": "Combine lexical and vector retrieval, rerank eligible evidence, and assemble context within separate candidate and token budgets.",
+    "topics": ["Hybrid retrieval", "Reranking", "Context assembly"],
+    "pages": 18,
+    "order": 28,
+    "lesson": 28,
+    "series": "System Design",
+    "cover": "system-design-28.png"
+  },
+  "System Design - 29.pdf": {
+    "title": "Enforce Access and Support Claims",
+    "summary": "Authorize evidence before generation, connect claims to supporting passages, and handle denied, missing, or conflicting sources.",
+    "topics": ["Access control", "Citations", "Claim support"],
+    "pages": 18,
+    "order": 29,
+    "lesson": 29,
+    "series": "System Design",
+    "cover": "system-design-29.png"
+  },
+  "System Design - 30.pdf": {
+    "title": "Evaluate the Complete RAG Path",
+    "summary": "Diagnose failures across the RAG pipeline and compare controlled changes using retrieval, answer quality, access, latency, and cost measures.",
+    "topics": ["RAG evaluation", "Failure diagnosis", "Controlled experiments"],
+    "pages": 18,
+    "order": 30,
+    "lesson": 30,
+    "series": "System Design",
+    "cover": "system-design-30.png"
   }
 }

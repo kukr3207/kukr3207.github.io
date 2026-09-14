@@ -112,7 +112,7 @@ function PdfPage({
         <div ref={canvasContainer} className="pdf-reader-canvas" />
         {failed ? (
           <div className="pdf-page-status">
-            This page could not load. You can download the original PDF above.
+            This page could not load. You can download the PDF above.
           </div>
         ) : (
           (!ready || !visible) && (
@@ -344,7 +344,7 @@ export function PdfReader({ url, title }: { url: string; title: string }) {
     return (
       <div className="pdf-reader-message" role="alert">
         <p>This PDF could not load.</p>
-        <p>Try again or download the original using the link above.</p>
+        <p>Try again or download the PDF using the link above.</p>
         <button
           className="action"
           type="button"
