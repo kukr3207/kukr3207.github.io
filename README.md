@@ -115,8 +115,10 @@ The old lab URLs show the project collection for existing bookmarks. The old RAG
 
 The included workflow builds the site and publishes `dist/client`.
 
-Deployment target: <https://udaykondreddy-crypto.github.io/>.
-GitHub repository: <https://github.com/udaykondreddy-crypto/udaykondreddy-crypto.github.io>.
+Deployment target: <https://kukr3207.github.io/>.
+GitHub repository: <https://github.com/kukr3207/kukr3207.github.io>.
+
+The portfolio publishes under the `kukr3207` account. The planned custom domain is `udaykondreddy.dev`; verify it under that same account before connecting it. Its `www` DNS record must point to `kukr3207.github.io`.
 The `github` remote points to that repository; the existing `origin` remains the Sites source repository.
 Push new commits with `git push github main`. GitHub Actions checks the source, rebuilds the learning catalog, and publishes the site.
 
